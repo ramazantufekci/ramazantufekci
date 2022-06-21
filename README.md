@@ -2,6 +2,9 @@
 
 - [Ekibe katıl](https://github.com/bilgislem)
 - ![GitHub followers](https://img.shields.io/github/followers/ramazantufekci?label=Follow%20%40ramazantufekci&style=for-the-badge)
+
+<img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=ramazantufekci&count_private=true&show_icons=true&theme=chartreuse-dark"/>
+<img align="right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramazantufekci&layout=compact&theme=chartreuse-dark&langs_count=8" />
 <!--- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
