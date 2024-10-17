@@ -6,6 +6,22 @@
 - [Ekibe katıl](https://github.com/bilgislem)
 - ![GitHub followers](https://img.shields.io/github/followers/ramazantufekci?label=Follow%20%40ramazantufekci&style=for-the-badge)
 - 📝 [**ramazantufekci.com**](https://www.ramazantufekci.com)
+
+---
+
+#### 👷 Check out what I'm currently working on
+{{range recentContributions 10}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{- end}}
+
+---
+
+#### 🔭 Latest releases I've contributed to
+{{range recentReleases 10}}
+- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
+{{- end}}
+
+---
   
 <h3 align="left">İletişim:</h3>
 <p align="left">
