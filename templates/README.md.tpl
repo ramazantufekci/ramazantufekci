@@ -2,7 +2,7 @@
 <h1> Merhaba 👋, Ben Ramazan TÜFEKÇİ</h1>
 <h3>System Administrator & Network Security Associate</h3>
 
-- 🚀  **System Administrator** 13 yıl, **Network Security Associate** 7 yılı aşkın süredir profesyonel olarak hizmet vermekteyim.
+- 🚀  **System Administrator** 13 yıl, ***Network Security Associate*** 7 yılı aşkın süredir profesyonel olarak hizmet vermekteyim.
 
 - [Ekibe katıl](https://github.com/bilgislem)
 - ![GitHub followers](https://img.shields.io/github/followers/ramazantufekci?label=Follow%20%40ramazantufekci&style=for-the-badge)
