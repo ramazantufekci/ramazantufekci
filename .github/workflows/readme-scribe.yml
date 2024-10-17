@@ -10,17 +10,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: "deneme"
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN}}
+        run:
+         echo "$GITHUB_TOKEN"
       - uses: actions/checkout@master
 
       - uses: muesli/readme-scribe@master
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
-      run: |
-        echo "$GITHUB_TOKEN"
-        with:
-          template: "templates/README.md.tpl"
-          writeTo: "README.md"
           
+          template: "templates/README.md.tpl"
+          writeTo: "README.md"  
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         env:
