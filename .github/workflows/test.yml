@@ -8,6 +8,11 @@ jobs:
       - self-hosted
 
     steps:
-    - name: "selam"
-      run : 
-        echo "test runner"
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: "selam"
+        uses: actions-hub/kubectl@master
+        with:
+          args: apply -f kubernetes/deployment.yml
+        run : 
+          echo "test runner"
