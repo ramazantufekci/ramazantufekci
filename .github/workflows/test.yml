@@ -14,5 +14,4 @@ jobs:
         uses: actions-hub/kubectl@master
         with:
           args: apply -f kubernetes/deployment.yml
-        run : 
-          echo "test runner"
+        
