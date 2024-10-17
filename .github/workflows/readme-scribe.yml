@@ -12,7 +12,7 @@ jobs:
     steps:
       - name: "deneme"
         env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN}}
+          GITHUB_TOKEN: ${{ vars.PERSONAL_GITHUB_TOKEN}}
         run:
          echo " [{{secrets.PERSONAL_GITHUB_TOKEN}}"
       - uses: actions/checkout@master
