@@ -1,0 +1,12 @@
+name: simple
+on:
+  workflow_dispatch
+jobs:
+  build:
+    runs-on:
+      - self-hosted
+
+    steps:
+    - name: "selam"
+      run : 
+        echo "test runner"
