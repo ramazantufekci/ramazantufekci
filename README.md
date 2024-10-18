@@ -1,3 +1,4 @@
+
 <h1> Merhaba 👋, Ben Ramazan TÜFEKÇİ</h1>
 <h3>System Administrator & Network Security Associate</h3>
 
@@ -9,17 +10,61 @@
 
 ---
 
-#### 👷 Check out what I'm currently working on
-{{range recentContributions 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}
+Name: ramazantufekci/smtp-server
+Description: 
+URL: https://github.com/ramazantufekci/smtp-server)
+Stars: 0
+
+Name: ramazantufekci/react-begin
+Description: 
+URL: https://github.com/ramazantufekci/react-begin)
+Stars: 0
+
+Name: ramazantufekci/tg-web-app-react
+Description: 
+URL: https://github.com/ramazantufekci/tg-web-app-react)
+Stars: 0
+
+Name: ramazantufekci/dapp
+Description: 
+URL: https://github.com/ramazantufekci/dapp)
+Stars: 0
+
+Name: ramazantufekci/jenkins101
+Description: 
+URL: https://github.com/ramazantufekci/jenkins101)
+Stars: 0
+
+Name: ramazantufekci/nototomasyon
+Description: 
+URL: https://github.com/ramazantufekci/nototomasyon)
+Stars: 0
+
+Name: ramazantufekci/sohbet-odasi-java
+Description: 
+URL: https://github.com/ramazantufekci/sohbet-odasi-java)
+Stars: 0
+
+Name: ramazantufekci/arac-kiralama-java
+Description: 
+URL: https://github.com/ramazantufekci/arac-kiralama-java)
+Stars: 0
+
+Name: ramazantufekci/banka-sistemi-java
+Description: 
+URL: https://github.com/ramazantufekci/banka-sistemi-java)
+Stars: 0
+
+Name: ramazantufekci/hesapmakinesi-java
+Description: 
+URL: https://github.com/ramazantufekci/hesapmakinesi-java)
+Stars: 0
+
 
 ---
 
 #### 🔭 Latest releases I've contributed to
-{{range recentReleases 10}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
-{{- end}}
+
 
 ---
   
@@ -33,13 +78,7 @@
 <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=ramazantufekci&count_private=true&show_icons=true&theme=chartreuse-dark"/>
 
 <img align="right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramazantufekci&layout=compact&theme=chartreuse-dark&langs_count=8" />
-<!--- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...-->
+
 
 
 
