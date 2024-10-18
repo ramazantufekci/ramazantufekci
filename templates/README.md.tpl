@@ -10,9 +10,9 @@
 
 ---
 
-### 📰 Recent Blog Posts
-{{ range rss "https://www.ramazantufekci.com/feed" 5 }}
-- [{{ .Title }}]({{ .URL }})
+### 👷 Check out what I'm currently working on
+{{ range recentContributions 5 }}
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
 {{- end }}
 
 ---
