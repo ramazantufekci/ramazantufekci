@@ -10,6 +10,16 @@
 
 ---
 
+### 👷 Check out what I'm currently working on
+
+- [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık
+- [ramazantufekci/smtp-server](https://github.com/ramazantufekci/smtp-server) - 
+- [ramazantufekci/tg-web-app-react](https://github.com/ramazantufekci/tg-web-app-react) - 
+- [ramazantufekci/JdFolderWatchCsharp](https://github.com/ramazantufekci/JdFolderWatchCsharp) - JdFolderWatchCsharp
+- [ramazantufekci/dapp](https://github.com/ramazantufekci/dapp) - 
+
+---
+
 #### 👷 Check out what I'm currently working on
 
 
