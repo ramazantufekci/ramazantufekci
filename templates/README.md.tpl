@@ -9,17 +9,17 @@
 - 📝 [**ramazantufekci.com**](https://www.ramazantufekci.com)
 
 ---
-{{range recentRepos 10}}
+<!-- {{range recentRepos 10}}
 Name: {{.Name}}
 Description: {{.Description}}
 URL: {{.URL}})
 Stars: {{.Stargazers}}
-{{end}}
-<!-- #### 👷 Check out what I'm currently working on
+{{end}}-->
+#### 👷 Check out what I'm currently working on
 {{range recentContributions 0}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
--->
+
 ---
 
 #### 🔭 Latest releases I've contributed to
