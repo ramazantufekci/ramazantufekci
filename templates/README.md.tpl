@@ -9,6 +9,13 @@
 - 📝 [**ramazantufekci.com**](https://www.ramazantufekci.com)
 
 ---
+
+### 📰 Recent Blog Posts
+{{ range rss "https://ramazantufekci.com/sitemap.xml" 5 }}
+- [{{ .Title }}]({{ .URL }})
+{{- end }}
+
+---
 <!-- {{range recentRepos 10}}
 Name: {{.Name}}
 Description: {{.Description}}
