@@ -16,5 +16,5 @@ jobs:
           # to the issue
           project-url: https://github.com/users/ramazantufekci/projects/2
           github-token: ${{ secrets.GH_P }}
-          labeled: bug, needs-triage
-          label-operator: OR
+        #  labeled: bug, needs-triage
+        #  label-operator: OR
