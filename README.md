@@ -22,6 +22,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (1 month ago)
+- [ramazantufekci/smtp-server](https://github.com/ramazantufekci/smtp-server) - Fortigate sms 2fa (2 months ago)
+- [ramazantufekci/tg-web-app-react](https://github.com/ramazantufekci/tg-web-app-react) - telegram web app (3 months ago)
+- [ramazantufekci/JdFolderWatchCsharp](https://github.com/ramazantufekci/JdFolderWatchCsharp) - JdFolderWatchCsharp (3 months ago)
+- [ramazantufekci/dapp](https://github.com/ramazantufekci/dapp) - dapp example (4 months ago)
+- [ramazantufekci/jenkins101](https://github.com/ramazantufekci/jenkins101) -  (5 months ago)
+- [ramazantufekci/nototomasyon](https://github.com/ramazantufekci/nototomasyon) -  (6 months ago)
+- [ramazantufekci/arac-kiralama-java](https://github.com/ramazantufekci/arac-kiralama-java) -  (9 months ago)
+- [ramazantufekci/quicksort-java](https://github.com/ramazantufekci/quicksort-java) -  (9 months ago)
+- [ramazantufekci/hesapmakinesi-java](https://github.com/ramazantufekci/hesapmakinesi-java) -  (9 months ago)
 
 ---
 
