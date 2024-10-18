@@ -11,7 +11,7 @@
 ---
 
 ### 📰 Recent Blog Posts
-{{ range rss "https://ramazantufekci.com/sitemap.xml" 5 }}
+{{ range rss "https://www.ramazantufekci.com/post-sitemap.xml" 5 }}
 - [{{ .Title }}]({{ .URL }})
 {{- end }}
 
