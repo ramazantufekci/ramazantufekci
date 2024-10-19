@@ -13,10 +13,10 @@
 ### 👷 Check out what I'm currently working on
 
 - [ramazantufekci/action-tips](https://github.com/ramazantufekci/action-tips) -  (today)
+- [ramazantufekci/jenkins101](https://github.com/ramazantufekci/jenkins101) -  (today)
 - [ramazantufekci/.github](https://github.com/ramazantufekci/.github) -  (1 day ago)
 - [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (1 month ago)
 - [ramazantufekci/smtp-server](https://github.com/ramazantufekci/smtp-server) - Fortigate sms 2fa (2 months ago)
-- [ramazantufekci/tg-web-app-react](https://github.com/ramazantufekci/tg-web-app-react) - telegram web app (3 months ago)
 
 ---
 
