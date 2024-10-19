@@ -12,7 +12,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ramazantufekci/action-tips](https://github.com/ramazantufekci/action-tips) -  (1 day ago)
+- [ramazantufekci/action-tips](https://github.com/ramazantufekci/action-tips) -  (today)
 - [ramazantufekci/.github](https://github.com/ramazantufekci/.github) -  (1 day ago)
 - [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (1 month ago)
 - [ramazantufekci/smtp-server](https://github.com/ramazantufekci/smtp-server) - Fortigate sms 2fa (2 months ago)
