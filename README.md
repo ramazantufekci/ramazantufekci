@@ -12,8 +12,8 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [ramazantufekci/jenkins101](https://github.com/ramazantufekci/jenkins101) -  (today)
 - [ramazantufekci/action-tips](https://github.com/ramazantufekci/action-tips) -  (1 day ago)
-- [ramazantufekci/jenkins101](https://github.com/ramazantufekci/jenkins101) -  (1 day ago)
 - [ramazantufekci/.github](https://github.com/ramazantufekci/.github) -  (2 days ago)
 - [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (1 month ago)
 - [ramazantufekci/smtp-server](https://github.com/ramazantufekci/smtp-server) - Fortigate sms 2fa (2 months ago)
