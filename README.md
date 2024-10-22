@@ -12,9 +12,9 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ramazantufekci/jenkins101](https://github.com/ramazantufekci/jenkins101) -  (today)
-- [ramazantufekci/action-tips](https://github.com/ramazantufekci/action-tips) -  (2 days ago)
-- [ramazantufekci/.github](https://github.com/ramazantufekci/.github) -  (3 days ago)
+- [ramazantufekci/jenkins101](https://github.com/ramazantufekci/jenkins101) -  (1 day ago)
+- [ramazantufekci/action-tips](https://github.com/ramazantufekci/action-tips) -  (3 days ago)
+- [ramazantufekci/.github](https://github.com/ramazantufekci/.github) -  (4 days ago)
 - [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (1 month ago)
 - [ramazantufekci/smtp-server](https://github.com/ramazantufekci/smtp-server) - Fortigate sms 2fa (2 months ago)
 
@@ -24,7 +24,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ramazantufekci/ramazantufekci](https://github.com/ramazantufekci/ramazantufekci) ([4](https://github.com/ramazantufekci/ramazantufekci/releases/tag/4), 3 days ago) - Ramazan TÜFEKÇİ Github Profile
+- [ramazantufekci/ramazantufekci](https://github.com/ramazantufekci/ramazantufekci) ([4](https://github.com/ramazantufekci/ramazantufekci/releases/tag/4), 4 days ago) - Ramazan TÜFEKÇİ Github Profile
 
 ---
   
