@@ -12,10 +12,10 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ramazantufekci/go](https://github.com/ramazantufekci/go) -  (today)
-- [ramazantufekci/jenkins101](https://github.com/ramazantufekci/jenkins101) -  (1 day ago)
-- [ramazantufekci/action-tips](https://github.com/ramazantufekci/action-tips) -  (3 days ago)
-- [ramazantufekci/.github](https://github.com/ramazantufekci/.github) -  (4 days ago)
+- [ramazantufekci/go](https://github.com/ramazantufekci/go) -  (1 day ago)
+- [ramazantufekci/jenkins101](https://github.com/ramazantufekci/jenkins101) -  (2 days ago)
+- [ramazantufekci/action-tips](https://github.com/ramazantufekci/action-tips) -  (4 days ago)
+- [ramazantufekci/.github](https://github.com/ramazantufekci/.github) -  (5 days ago)
 - [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (1 month ago)
 
 ---
@@ -24,7 +24,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ramazantufekci/ramazantufekci](https://github.com/ramazantufekci/ramazantufekci) ([4](https://github.com/ramazantufekci/ramazantufekci/releases/tag/4), 4 days ago) - Ramazan TÜFEKÇİ Github Profile
+- [ramazantufekci/ramazantufekci](https://github.com/ramazantufekci/ramazantufekci) ([4](https://github.com/ramazantufekci/ramazantufekci/releases/tag/4), 5 days ago) - Ramazan TÜFEKÇİ Github Profile
 
 ---
   
