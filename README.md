@@ -12,11 +12,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [ramazantufekci/not](https://github.com/ramazantufekci/not) - php ile not tutma (today)
 - [ramazantufekci/go](https://github.com/ramazantufekci/go) -  (1 day ago)
 - [ramazantufekci/jenkins101](https://github.com/ramazantufekci/jenkins101) -  (2 days ago)
 - [ramazantufekci/action-tips](https://github.com/ramazantufekci/action-tips) -  (4 days ago)
 - [ramazantufekci/.github](https://github.com/ramazantufekci/.github) -  (5 days ago)
-- [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (1 month ago)
 
 ---
 
