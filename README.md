@@ -12,11 +12,11 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ramazantufekci/not](https://github.com/ramazantufekci/not) - php ile not tutma (6 days ago)
+- [ramazantufekci/not](https://github.com/ramazantufekci/not) - php ile not tutma (1 week ago)
 - [ramazantufekci/go](https://github.com/ramazantufekci/go) -  (1 week ago)
 - [ramazantufekci/jenkins101](https://github.com/ramazantufekci/jenkins101) -  (1 week ago)
 - [ramazantufekci/action-tips](https://github.com/ramazantufekci/action-tips) -  (1 week ago)
-- [ramazantufekci/.github](https://github.com/ramazantufekci/.github) -  (1 week ago)
+- [ramazantufekci/.github](https://github.com/ramazantufekci/.github) -  (2 weeks ago)
 
 ---
 
@@ -24,7 +24,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ramazantufekci/ramazantufekci](https://github.com/ramazantufekci/ramazantufekci) ([4](https://github.com/ramazantufekci/ramazantufekci/releases/tag/4), 1 week ago) - Ramazan TÜFEKÇİ Github Profile
+- [ramazantufekci/ramazantufekci](https://github.com/ramazantufekci/ramazantufekci) ([4](https://github.com/ramazantufekci/ramazantufekci/releases/tag/4), 2 weeks ago) - Ramazan TÜFEKÇİ Github Profile
 
 ---
   
