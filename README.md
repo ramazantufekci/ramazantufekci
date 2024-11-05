@@ -13,7 +13,7 @@
 ### 👷 Check out what I'm currently working on
 
 - [ramazantufekci/not](https://github.com/ramazantufekci/not) - php ile not tutma (1 week ago)
-- [ramazantufekci/go](https://github.com/ramazantufekci/go) -  (1 week ago)
+- [ramazantufekci/go](https://github.com/ramazantufekci/go) -  (2 weeks ago)
 - [ramazantufekci/jenkins101](https://github.com/ramazantufekci/jenkins101) -  (2 weeks ago)
 - [ramazantufekci/action-tips](https://github.com/ramazantufekci/action-tips) -  (2 weeks ago)
 - [ramazantufekci/.github](https://github.com/ramazantufekci/.github) -  (2 weeks ago)
