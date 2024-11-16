@@ -15,7 +15,7 @@
 - [ramazantufekci/not](https://github.com/ramazantufekci/not) - php ile not tutma (3 weeks ago)
 - [ramazantufekci/go](https://github.com/ramazantufekci/go) -  (3 weeks ago)
 - [ramazantufekci/jenkins101](https://github.com/ramazantufekci/jenkins101) -  (3 weeks ago)
-- [ramazantufekci/action-tips](https://github.com/ramazantufekci/action-tips) -  (3 weeks ago)
+- [ramazantufekci/action-tips](https://github.com/ramazantufekci/action-tips) -  (4 weeks ago)
 - [ramazantufekci/.github](https://github.com/ramazantufekci/.github) -  (4 weeks ago)
 
 ---
