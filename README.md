@@ -16,7 +16,7 @@
 - [ramazantufekci/go](https://github.com/ramazantufekci/go) -  (3 weeks ago)
 - [ramazantufekci/jenkins101](https://github.com/ramazantufekci/jenkins101) -  (3 weeks ago)
 - [ramazantufekci/action-tips](https://github.com/ramazantufekci/action-tips) -  (4 weeks ago)
-- [ramazantufekci/.github](https://github.com/ramazantufekci/.github) -  (4 weeks ago)
+- [ramazantufekci/.github](https://github.com/ramazantufekci/.github) -  (1 month ago)
 
 ---
 
@@ -24,7 +24,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ramazantufekci/ramazantufekci](https://github.com/ramazantufekci/ramazantufekci) ([4](https://github.com/ramazantufekci/ramazantufekci/releases/tag/4), 4 weeks ago) - Ramazan TÜFEKÇİ Github Profile
+- [ramazantufekci/ramazantufekci](https://github.com/ramazantufekci/ramazantufekci) ([4](https://github.com/ramazantufekci/ramazantufekci/releases/tag/4), 1 month ago) - Ramazan TÜFEKÇİ Github Profile
 
 ---
   
