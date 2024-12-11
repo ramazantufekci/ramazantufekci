@@ -12,7 +12,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ramazantufekci/workflow](https://github.com/ramazantufekci/workflow) -  (today)
+- [ramazantufekci/workflow](https://github.com/ramazantufekci/workflow) -  (1 day ago)
 - [ramazantufekci/not](https://github.com/ramazantufekci/not) - php ile not tutma (1 month ago)
 - [ramazantufekci/go](https://github.com/ramazantufekci/go) -  (1 month ago)
 - [ramazantufekci/jenkins101](https://github.com/ramazantufekci/jenkins101) -  (1 month ago)
