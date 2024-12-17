@@ -12,11 +12,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [ramazantufekci/oklid](https://github.com/ramazantufekci/oklid) -  (today)
 - [ramazantufekci/workflow](https://github.com/ramazantufekci/workflow) -  (1 week ago)
 - [ramazantufekci/not](https://github.com/ramazantufekci/not) - php ile not tutma (1 month ago)
 - [ramazantufekci/go](https://github.com/ramazantufekci/go) -  (1 month ago)
 - [ramazantufekci/jenkins101](https://github.com/ramazantufekci/jenkins101) -  (1 month ago)
-- [ramazantufekci/action-tips](https://github.com/ramazantufekci/action-tips) -  (1 month ago)
 
 ---
 
