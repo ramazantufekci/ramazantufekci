@@ -12,7 +12,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ramazantufekci/workflow](https://github.com/ramazantufekci/workflow) -  (6 days ago)
+- [ramazantufekci/workflow](https://github.com/ramazantufekci/workflow) -  (1 week ago)
 - [ramazantufekci/not](https://github.com/ramazantufekci/not) - php ile not tutma (1 month ago)
 - [ramazantufekci/go](https://github.com/ramazantufekci/go) -  (1 month ago)
 - [ramazantufekci/jenkins101](https://github.com/ramazantufekci/jenkins101) -  (1 month ago)
@@ -24,7 +24,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ramazantufekci/ramazantufekci](https://github.com/ramazantufekci/ramazantufekci) ([4](https://github.com/ramazantufekci/ramazantufekci/releases/tag/4), 1 month ago) - Ramazan TÜFEKÇİ Github Profile
+- [ramazantufekci/ramazantufekci](https://github.com/ramazantufekci/ramazantufekci) ([4](https://github.com/ramazantufekci/ramazantufekci/releases/tag/4), 2 months ago) - Ramazan TÜFEKÇİ Github Profile
 
 ---
   
