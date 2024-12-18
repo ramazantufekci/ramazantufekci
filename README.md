@@ -12,7 +12,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ramazantufekci/oklid](https://github.com/ramazantufekci/oklid) -  (today)
+- [ramazantufekci/oklid](https://github.com/ramazantufekci/oklid) -  (1 day ago)
 - [ramazantufekci/workflow](https://github.com/ramazantufekci/workflow) -  (1 week ago)
 - [ramazantufekci/not](https://github.com/ramazantufekci/not) - php ile not tutma (1 month ago)
 - [ramazantufekci/go](https://github.com/ramazantufekci/go) -  (1 month ago)
