@@ -12,9 +12,9 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ramazantufekci/oklid](https://github.com/ramazantufekci/oklid) -  (6 days ago)
-- [ramazantufekci/workflow](https://github.com/ramazantufekci/workflow) -  (1 week ago)
-- [ramazantufekci/not](https://github.com/ramazantufekci/not) - php ile not tutma (1 month ago)
+- [ramazantufekci/oklid](https://github.com/ramazantufekci/oklid) -  (1 week ago)
+- [ramazantufekci/workflow](https://github.com/ramazantufekci/workflow) -  (2 weeks ago)
+- [ramazantufekci/not](https://github.com/ramazantufekci/not) - php ile not tutma (2 months ago)
 - [ramazantufekci/go](https://github.com/ramazantufekci/go) -  (2 months ago)
 - [ramazantufekci/jenkins101](https://github.com/ramazantufekci/jenkins101) -  (2 months ago)
 
