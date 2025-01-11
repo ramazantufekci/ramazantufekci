@@ -12,7 +12,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (today)
+- [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (1 day ago)
 - [ramazantufekci/oklid](https://github.com/ramazantufekci/oklid) -  (3 weeks ago)
 - [ramazantufekci/workflow](https://github.com/ramazantufekci/workflow) -  (1 month ago)
 - [ramazantufekci/not](https://github.com/ramazantufekci/not) - php ile not tutma (2 months ago)
