@@ -12,8 +12,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (5 days ago)
-- [ramazantufekci/oklid](https://github.com/ramazantufekci/oklid) -  (4 weeks ago)
+- [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (6 days ago)
+- [ramazantufekci/oklid](https://github.com/ramazantufekci/oklid) -  (1 month ago)
 - [ramazantufekci/workflow](https://github.com/ramazantufekci/workflow) -  (1 month ago)
 - [ramazantufekci/not](https://github.com/ramazantufekci/not) - php ile not tutma (2 months ago)
 - [ramazantufekci/go](https://github.com/ramazantufekci/go) -  (2 months ago)
@@ -24,7 +24,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ramazantufekci/ramazantufekci](https://github.com/ramazantufekci/ramazantufekci) ([4](https://github.com/ramazantufekci/ramazantufekci/releases/tag/4), 2 months ago) - Ramazan TÜFEKÇİ Github Profile
+- [ramazantufekci/ramazantufekci](https://github.com/ramazantufekci/ramazantufekci) ([4](https://github.com/ramazantufekci/ramazantufekci/releases/tag/4), 3 months ago) - Ramazan TÜFEKÇİ Github Profile
 
 ---
   
