@@ -15,7 +15,7 @@
 - [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (1 week ago)
 - [ramazantufekci/oklid](https://github.com/ramazantufekci/oklid) -  (1 month ago)
 - [ramazantufekci/workflow](https://github.com/ramazantufekci/workflow) -  (1 month ago)
-- [ramazantufekci/not](https://github.com/ramazantufekci/not) - php ile not tutma (2 months ago)
+- [ramazantufekci/not](https://github.com/ramazantufekci/not) - php ile not tutma (3 months ago)
 - [ramazantufekci/go](https://github.com/ramazantufekci/go) -  (3 months ago)
 
 ---
