@@ -12,11 +12,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [ramazantufekci/zabbix](https://github.com/ramazantufekci/zabbix) -  (today)
 - [ramazantufekci/1221](https://github.com/ramazantufekci/1221) -  (3 weeks ago)
 - [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (3 weeks ago)
 - [ramazantufekci/oklid](https://github.com/ramazantufekci/oklid) -  (2 months ago)
 - [ramazantufekci/workflow](https://github.com/ramazantufekci/workflow) -  (2 months ago)
-- [ramazantufekci/not](https://github.com/ramazantufekci/not) - php ile not tutma (3 months ago)
 
 ---
 
