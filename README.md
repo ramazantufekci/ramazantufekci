@@ -12,7 +12,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ramazantufekci/jenkins101](https://github.com/ramazantufekci/jenkins101) -  (today)
+- [ramazantufekci/jenkins101](https://github.com/ramazantufekci/jenkins101) -  (1 day ago)
 - [ramazantufekci/1221](https://github.com/ramazantufekci/1221) -  (3 weeks ago)
 - [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (3 weeks ago)
 - [ramazantufekci/oklid](https://github.com/ramazantufekci/oklid) -  (2 months ago)
