@@ -15,7 +15,7 @@
 - [ramazantufekci/jenkins101](https://github.com/ramazantufekci/jenkins101) -  (1 week ago)
 - [ramazantufekci/1221](https://github.com/ramazantufekci/1221) -  (1 month ago)
 - [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (1 month ago)
-- [ramazantufekci/oklid](https://github.com/ramazantufekci/oklid) -  (2 months ago)
+- [ramazantufekci/oklid](https://github.com/ramazantufekci/oklid) -  (3 months ago)
 - [ramazantufekci/workflow](https://github.com/ramazantufekci/workflow) -  (3 months ago)
 
 ---
@@ -24,7 +24,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ramazantufekci/ramazantufekci](https://github.com/ramazantufekci/ramazantufekci) ([4](https://github.com/ramazantufekci/ramazantufekci/releases/tag/4), 4 months ago) - Ramazan TÜFEKÇİ Github Profile
+- [ramazantufekci/ramazantufekci](https://github.com/ramazantufekci/ramazantufekci) ([4](https://github.com/ramazantufekci/ramazantufekci/releases/tag/4), 5 months ago) - Ramazan TÜFEKÇİ Github Profile
 
 ---
   
