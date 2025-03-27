@@ -12,7 +12,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ramazantufekci/.github](https://github.com/ramazantufekci/.github) -  (today)
+- [ramazantufekci/.github](https://github.com/ramazantufekci/.github) -  (1 day ago)
 - [ramazantufekci/jenkins101](https://github.com/ramazantufekci/jenkins101) -  (3 weeks ago)
 - [ramazantufekci/1221](https://github.com/ramazantufekci/1221) -  (1 month ago)
 - [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (1 month ago)
