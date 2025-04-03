@@ -12,7 +12,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ramazantufekci/devops-roadmap](https://github.com/ramazantufekci/devops-roadmap) -  (today)
+- [ramazantufekci/devops-roadmap](https://github.com/ramazantufekci/devops-roadmap) -  (1 day ago)
 - [ramazantufekci/.github](https://github.com/ramazantufekci/.github) -  (1 week ago)
 - [ramazantufekci/jenkins101](https://github.com/ramazantufekci/jenkins101) -  (4 weeks ago)
 - [ramazantufekci/1221](https://github.com/ramazantufekci/1221) -  (2 months ago)
