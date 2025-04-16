@@ -24,10 +24,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ramazantufekci/ramazantufekci](https://github.com/ramazantufekci/ramazantufekci) ([4](https://github.com/ramazantufekci/ramazantufekci/releases/tag/4), 6 months ago) - Ramazan TÜFEKÇİ Github Profile
+- [ramazantufekci/ramazantufekci](https://github.com/ramazantufekci/ramazantufekci) ([5](https://github.com/ramazantufekci/ramazantufekci/releases/tag/5), today) - Ramazan TÜFEKÇİ Github Profile
 
 ---
-  
+#### ❤️ These awesome people [sponsor me](https://github.com/sponsors/ramazantufekci) (thank you!)
+
+
 <h3 align="left">İletişim:</h3>
 <p align="left">
 <a href="https://www.youtube.com/@ramazan-tufekci" target="blank" aria-label="Youtube: https://www.youtube.com/@ramazan-tufekci"><img align="center" src="https://raw.githubusercontent.com/ramazantufekci/ramazantufekci/master/social/youtube.svg" alt="@ramazan-tufekci" height="30" width="40" /></a>
