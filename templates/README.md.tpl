@@ -35,7 +35,11 @@ Stars: {{.Stargazers}}
 {{- end}}
 
 ---
-  
+#### ❤️ These awesome people [sponsor me](https://github.com/sponsors/ramazantufekci) (thank you!)
+{{range sponsors 3}}
+- [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
+{{- end}}
+
 <h3 align="left">İletişim:</h3>
 <p align="left">
 <a href="https://www.youtube.com/@ramazan-tufekci" target="blank" aria-label="Youtube: https://www.youtube.com/@ramazan-tufekci"><img align="center" src="https://raw.githubusercontent.com/ramazantufekci/ramazantufekci/master/social/youtube.svg" alt="@ramazan-tufekci" height="30" width="40" /></a>
