@@ -12,10 +12,10 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ramazantufekci/jenkins101](https://github.com/ramazantufekci/jenkins101) -  (2 days ago)
-- [ramazantufekci/devops-roadmap](https://github.com/ramazantufekci/devops-roadmap) -  (3 weeks ago)
+- [ramazantufekci/jenkins101](https://github.com/ramazantufekci/jenkins101) -  (3 days ago)
+- [ramazantufekci/devops-roadmap](https://github.com/ramazantufekci/devops-roadmap) -  (4 weeks ago)
 - [ramazantufekci/.github](https://github.com/ramazantufekci/.github) -  (1 month ago)
-- [ramazantufekci/1221](https://github.com/ramazantufekci/1221) -  (2 months ago)
+- [ramazantufekci/1221](https://github.com/ramazantufekci/1221) -  (3 months ago)
 - [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (3 months ago)
 
 ---
@@ -24,7 +24,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ramazantufekci/ramazantufekci](https://github.com/ramazantufekci/ramazantufekci) ([5](https://github.com/ramazantufekci/ramazantufekci/releases/tag/5), 1 week ago) - Ramazan TÜFEKÇİ Github Profile
+- [ramazantufekci/ramazantufekci](https://github.com/ramazantufekci/ramazantufekci) ([5](https://github.com/ramazantufekci/ramazantufekci/releases/tag/5), 2 weeks ago) - Ramazan TÜFEKÇİ Github Profile
 
 ---
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/ramazantufekci) (thank you!)
