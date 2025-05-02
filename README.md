@@ -12,8 +12,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ramazantufekci/jenkins101](https://github.com/ramazantufekci/jenkins101) -  (4 days ago)
-- [ramazantufekci/devops-roadmap](https://github.com/ramazantufekci/devops-roadmap) -  (4 weeks ago)
+- [ramazantufekci/jenkins101](https://github.com/ramazantufekci/jenkins101) -  (5 days ago)
+- [ramazantufekci/devops-roadmap](https://github.com/ramazantufekci/devops-roadmap) -  (1 month ago)
 - [ramazantufekci/.github](https://github.com/ramazantufekci/.github) -  (1 month ago)
 - [ramazantufekci/1221](https://github.com/ramazantufekci/1221) -  (3 months ago)
 - [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (3 months ago)
