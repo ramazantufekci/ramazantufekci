@@ -12,8 +12,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ramazantufekci/rust-crud](https://github.com/ramazantufekci/rust-crud) -  (today)
-- [ramazantufekci/rust-scrape](https://github.com/ramazantufekci/rust-scrape) -  (1 day ago)
+- [ramazantufekci/rust-crud](https://github.com/ramazantufekci/rust-crud) -  (1 day ago)
+- [ramazantufekci/rust-scrape](https://github.com/ramazantufekci/rust-scrape) -  (2 days ago)
 - [ramazantufekci/jenkins101](https://github.com/ramazantufekci/jenkins101) -  (1 week ago)
 - [ramazantufekci/devops-roadmap](https://github.com/ramazantufekci/devops-roadmap) -  (1 month ago)
 - [ramazantufekci/.github](https://github.com/ramazantufekci/.github) -  (1 month ago)
