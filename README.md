@@ -12,9 +12,9 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (today)
-- [ramazantufekci/rust-crud](https://github.com/ramazantufekci/rust-crud) -  (4 days ago)
-- [ramazantufekci/rust-scrape](https://github.com/ramazantufekci/rust-scrape) -  (5 days ago)
+- [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (1 day ago)
+- [ramazantufekci/rust-crud](https://github.com/ramazantufekci/rust-crud) -  (5 days ago)
+- [ramazantufekci/rust-scrape](https://github.com/ramazantufekci/rust-scrape) -  (6 days ago)
 - [ramazantufekci/jenkins101](https://github.com/ramazantufekci/jenkins101) -  (2 weeks ago)
 - [ramazantufekci/devops-roadmap](https://github.com/ramazantufekci/devops-roadmap) -  (1 month ago)
 
@@ -24,7 +24,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ramazantufekci/ramazantufekci](https://github.com/ramazantufekci/ramazantufekci) ([5](https://github.com/ramazantufekci/ramazantufekci/releases/tag/5), 3 weeks ago) - Ramazan TÜFEKÇİ Github Profile
+- [ramazantufekci/ramazantufekci](https://github.com/ramazantufekci/ramazantufekci) ([5](https://github.com/ramazantufekci/ramazantufekci/releases/tag/5), 4 weeks ago) - Ramazan TÜFEKÇİ Github Profile
 
 ---
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/ramazantufekci) (thank you!)
