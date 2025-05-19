@@ -12,7 +12,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (5 days ago)
+- [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (6 days ago)
 - [ramazantufekci/rust-crud](https://github.com/ramazantufekci/rust-crud) -  (1 week ago)
 - [ramazantufekci/rust-scrape](https://github.com/ramazantufekci/rust-scrape) -  (1 week ago)
 - [ramazantufekci/jenkins101](https://github.com/ramazantufekci/jenkins101) -  (3 weeks ago)
