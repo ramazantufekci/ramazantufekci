@@ -14,7 +14,7 @@
 
 - [ramazantufekci/jules](https://github.com/ramazantufekci/jules) -  (1 week ago)
 - [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (3 weeks ago)
-- [ramazantufekci/rust-crud](https://github.com/ramazantufekci/rust-crud) -  (4 weeks ago)
+- [ramazantufekci/rust-crud](https://github.com/ramazantufekci/rust-crud) -  (1 month ago)
 - [ramazantufekci/rust-scrape](https://github.com/ramazantufekci/rust-scrape) -  (1 month ago)
 - [ramazantufekci/jenkins101](https://github.com/ramazantufekci/jenkins101) -  (1 month ago)
 
