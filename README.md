@@ -12,11 +12,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [ramazantuf/laravel](https://github.com/ramazantuf/laravel) -  (today)
 - [ramazantufekcisnmp/.github](https://github.com/ramazantufekcisnmp/.github) -  (1 month ago)
 - [ramazantufekci/jules](https://github.com/ramazantufekci/jules) -  (2 months ago)
 - [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (2 months ago)
 - [ramazantufekci/rust-crud](https://github.com/ramazantufekci/rust-crud) -  (3 months ago)
-- [ramazantufekci/rust-scrape](https://github.com/ramazantufekci/rust-scrape) -  (3 months ago)
 
 ---
 
