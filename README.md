@@ -12,7 +12,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ramazantuf/laravel](https://github.com/ramazantuf/laravel) -  (1 day ago)
+- [ramazantuf/laravel](https://github.com/ramazantuf/laravel) -  (2 days ago)
 - [ramazantufekcisnmp/.github](https://github.com/ramazantufekcisnmp/.github) -  (1 month ago)
 - [ramazantufekci/jules](https://github.com/ramazantufekci/jules) -  (2 months ago)
 - [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (3 months ago)
@@ -24,7 +24,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ramazantufekci/ramazantufekci](https://github.com/ramazantufekci/ramazantufekci) ([5](https://github.com/ramazantufekci/ramazantufekci/releases/tag/5), 3 months ago) - Ramazan TÜFEKÇİ Github Profile
+- [ramazantufekci/ramazantufekci](https://github.com/ramazantufekci/ramazantufekci) ([5](https://github.com/ramazantufekci/ramazantufekci/releases/tag/5), 4 months ago) - Ramazan TÜFEKÇİ Github Profile
 
 ---
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/ramazantufekci) (thank you!)
