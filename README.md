@@ -14,7 +14,7 @@
 
 - [ramazantuf/laravel](https://github.com/ramazantuf/laravel) -  (1 week ago)
 - [ramazantufekcisnmp/.github](https://github.com/ramazantufekcisnmp/.github) -  (1 month ago)
-- [ramazantufekci/jules](https://github.com/ramazantufekci/jules) -  (2 months ago)
+- [ramazantufekci/jules](https://github.com/ramazantufekci/jules) -  (3 months ago)
 - [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (3 months ago)
 - [ramazantufekci/rust-crud](https://github.com/ramazantufekci/rust-crud) -  (3 months ago)
 
