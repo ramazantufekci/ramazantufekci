@@ -16,7 +16,7 @@
 - [ramazantuf/laravel](https://github.com/ramazantuf/laravel) -  (3 weeks ago)
 - [ramazantufekcisnmp/.github](https://github.com/ramazantufekcisnmp/.github) -  (2 months ago)
 - [ramazantufekci/jules](https://github.com/ramazantufekci/jules) -  (3 months ago)
-- [ramazantufekci/rust-crud](https://github.com/ramazantufekci/rust-crud) -  (3 months ago)
+- [ramazantufekci/rust-crud](https://github.com/ramazantufekci/rust-crud) -  (4 months ago)
 
 ---
 
