@@ -12,7 +12,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ramazantufekci/jules](https://github.com/ramazantufekci/jules) -  (1 day ago)
+- [ramazantufekci/jules](https://github.com/ramazantufekci/jules) -  (today)
 - [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (1 week ago)
 - [ramazantuf/laravel](https://github.com/ramazantuf/laravel) -  (4 weeks ago)
 - [ramazantufekcisnmp/.github](https://github.com/ramazantufekcisnmp/.github) -  (2 months ago)
