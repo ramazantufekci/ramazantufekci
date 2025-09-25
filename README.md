@@ -12,10 +12,10 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ramazantufekci/jules](https://github.com/ramazantufekci/jules) -  (2 days ago)
+- [ramazantufekci/jules](https://github.com/ramazantufekci/jules) -  (3 days ago)
 - [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (3 weeks ago)
 - [ramazantuf/laravel](https://github.com/ramazantuf/laravel) -  (1 month ago)
-- [ramazantufekcisnmp/.github](https://github.com/ramazantufekcisnmp/.github) -  (2 months ago)
+- [ramazantufekcisnmp/.github](https://github.com/ramazantufekcisnmp/.github) -  (3 months ago)
 - [ramazantufekci/rust-crud](https://github.com/ramazantufekci/rust-crud) -  (4 months ago)
 
 ---
