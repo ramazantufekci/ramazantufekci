@@ -1,46 +1,56 @@
+<h1 align="center">👨‍💻 Ramazan TÜFEKÇİ</h1>
+<h3 align="center">System Administrator & Network Security Associate</h3>
 
-<h1> Merhaba 👋, Ben Ramazan TÜFEKÇİ</h1>
-<h3>System Administrator & Network Security Associate</h3>
-
-- 🚀  **System Administrator** 13 yıl, **Network Security Associate** 7 yılı aşkın süredir profesyonel olarak hizmet vermekteyim.
-
-- [Ekibe katıl](https://github.com/bilgislem)
-- ![GitHub followers](https://img.shields.io/github/followers/ramazantufekci?label=Follow%20%40ramazantufekci&style=for-the-badge)
-- 📝 [**ramazantufekci.com**](https://www.ramazantufekci.com)
-
----
-
-### 👷 Check out what I'm currently working on
-
-- [ramazantufekci/fortisms](https://github.com/ramazantufekci/fortisms) - Fortigate firewall two factor sms server (1 day ago)
-- [ramazantufekci/jules](https://github.com/ramazantufekci/jules) -  (1 week ago)
-- [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (1 month ago)
-- [ramazantuf/laravel](https://github.com/ramazantuf/laravel) -  (1 month ago)
-- [ramazantufekcisnmp/.github](https://github.com/ramazantufekcisnmp/.github) -  (3 months ago)
-
----
-
----
-
-#### 🔭 Latest releases I've contributed to
-
-- [ramazantufekci/ramazantufekci](https://github.com/ramazantufekci/ramazantufekci) ([8](https://github.com/ramazantufekci/ramazantufekci/releases/tag/8), today) - Ramazan TÜFEKÇİ Github Profile
-
----
-#### ❤️ These awesome people [sponsor me](https://github.com/sponsors/ramazantufekci) (thank you!)
-
-
-<h3 align="left">İletişim:</h3>
-<p align="left">
-<a href="https://www.youtube.com/@ramazan-tufekci" target="blank" aria-label="Youtube: https://www.youtube.com/@ramazan-tufekci"><img align="center" src="https://raw.githubusercontent.com/ramazantufekci/ramazantufekci/master/social/youtube.svg" alt="@ramazan-tufekci" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ramazan-tufekci" target="blank" aria-label="LinkedIn: https://www.linkedin.com/in/ramazan-tufekci"><img align="center" src="https://raw.githubusercontent.com/ramazantufekci/ramazantufekci/master/social/linked-in.svg" alt="ramazan-tufekci" height="30" width="40" /></a>
-<a href="https://www.facebook.com/ramazantufekciblog" target="blank" aria-label="Facebook: https://www.facebook.com/ramazantufekciblog"><img align="center" src="https://raw.githubusercontent.com/ramazantufekci/ramazantufekci/master/social/facebook.svg" alt="@ramazantufekciblog" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJ1OWMwNmR2MWh1OXFlZnUyNWxieDdzNWNxbW5uMWt0OG1jbDN3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="280">
 </p>
 
-<img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=ramazantufekci&count_private=true&show_icons=true&theme=chartreuse-dark"/>
+### 🚀 Hakkımda
 
-<img align="right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramazantufekci&layout=compact&theme=chartreuse-dark&langs_count=8" />
+- 🛡️ **System Administrator** 13 yıl, **Network Security Associate** 7+ yıl deneyim
+- 💼 Sistem yönetimi ve ağ güvenliği alanında uzman
+- 🌐 Aktif olarak network altyapı çözümleri geliştirme
+- 📚 Sürekli öğrenme ve kendini geliştirme odaklı
 
+### 👨‍💻 Şu anda üzerinde çalıştığım projeler
+<!-- BLOG-POST-LIST:START -->
+{{ range recentContributions 5 }}
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }} ({{ humanize .OccurredAt }})
+{{ end }}
+<!-- BLOG-POST-LIST:END -->
 
+### 📊 GitHub İstatistiklerim
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramazantufekci&show_icons=true&theme=radical&include_all_commits=true&count_private=true&locale=tr"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramazantufekci&layout=compact&langs_count=7&theme=radical&locale=tr"/>
+</p>
 
+### 🔍 Son GitHub Aktiviteleri
+<!-- GITHUB-ACTIVITY-LIST:START -->
+{{ range recentReleases 5 }}
+- [{{ .Name }}]({{ .URL }}) ([{{ .LastRelease.TagName }}]({{ .LastRelease.URL }}), {{ humanize .LastRelease.PublishedAt }})
+{{ end }}
+<!-- GITHUB-ACTIVITY-LIST:END -->
+
+### 🤝 İletişim
+
+<p align="center">
+  <a href="https://www.ramazantufekci.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-ramazantufekci.com-blue?style=for-the-badge&logo=google-chrome" alt="Website"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ramazan-tufekci" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ramazan--tufekci-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.youtube.com/@ramazan-tufekci" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-ramazan--tufekci-red?style=for-the-badge&logo=youtube" alt="YouTube"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ramazantufekci&label=Profile%20views&color=0e75b6&style=flat" alt="Profil Görüntülenme"/>
+</p>
+
+<div align="center">
+  <i>🌟 Son Güncelleme: {{ formatDate now "2006-01-02 15:04:05" }}</i>
+</div>
