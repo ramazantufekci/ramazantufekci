@@ -1,4 +1,4 @@
-name: Template to Readme
+name: Update README
 
 on:
   push:
@@ -15,33 +15,27 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v3
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
-          fetch-depth: 0
-
-      - name: Set up Go
-        uses: actions/setup-go@v4
-        with:
-          go-version: '1.20'
-
-      - name: Install readme-scribe
-        run: |
-          go install github.com/muesli/readme-scribe@latest
-
-      - name: Generate README
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          readme-scribe generate
+          python-version: '3.x'
           
-      - name: Update README Stats URLs
+      - name: Install dependencies
         run: |
-          d=$(date '+%s')
-          sed -i "s/api?username=ramazantufekci/api?username=ramazantufekci\&cache_seconds=1800\&timestamp=$d/g" README.md
+          python -m pip install --upgrade pip
+          pip install PyGithub
+          
+      - name: Generate README content
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python .github/scripts/update_readme.py
           
       - name: Commit and Push
         run: |
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git config --global user.name "GitHub Actions[Bot]"
+          git config --global user.name "github-actions[bot]"
           git add README.md
           git diff --quiet && git diff --staged --quiet || git commit -m "docs: Update README"
           git push
