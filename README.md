@@ -24,7 +24,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ramazantufekci/ramazantufekci](https://github.com/ramazantufekci/ramazantufekci) ([7](https://github.com/ramazantufekci/ramazantufekci/releases/tag/7), today) - Ramazan TÜFEKÇİ Github Profile
+- [ramazantufekci/ramazantufekci](https://github.com/ramazantufekci/ramazantufekci) ([8](https://github.com/ramazantufekci/ramazantufekci/releases/tag/8), today) - Ramazan TÜFEKÇİ Github Profile
 
 ---
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/ramazantufekci) (thank you!)
