@@ -30,6 +30,6 @@ jobs:
         with:
           commit_message: Update generated README
           branch: master
-          commit_user_name: readme-scribe 🤖
+          commit_user_name: ramazantufekci
           commit_user_email: actions@github.com
-          commit_author: readme-scribe 🤖 <actions@github.com>
+          commit_author: ramazantufekci
