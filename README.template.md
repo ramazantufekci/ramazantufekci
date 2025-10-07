@@ -17,17 +17,15 @@
 - 🔒 Siber Güvenlik Danışmanlığı
 - 💻 Sunucu Yönetimi ve Optimizasyonu
 
-## 👨‍💻 Son Aktivitelerim
+## 👷 Güncel Projelerim
 
-{{ range recentContributions 5 }}
-- {{ .Repo.Name }} - {{ .Repo.Description }} ({{ humanize .OccurredAt }})
-{{ end }}
+<!-- LATEST_PROJECTS:START -->
+<!-- LATEST_PROJECTS:END -->
 
-## 📦 Son Yayınlarım
+## 🔭 Son Katkılarım
 
-{{ range recentReleases 5 }}
-- [{{ .Name }}]({{ .URL }}) ([{{ .LastRelease.TagName }}]({{ .LastRelease.URL }}), {{ humanize .LastRelease.PublishedAt }}) - {{ .Description }}
-{{ end }}
+<!-- LATEST_CONTRIBUTIONS:START -->
+<!-- LATEST_CONTRIBUTIONS:END -->
 
 ## 📊 GitHub İstatistiklerim
 
@@ -51,10 +49,5 @@
   
   ![Profil Ziyaretçi Sayısı](https://profile-counter.glitch.me/ramazantufekci/count.svg)
   
-</div>
-
----
-
-<div align="center">
-  <i>🌟 Son güncelleme: {{ time.Now | date "02-01-2006 15:04:05" }} 🌟</i>
+  <i>Son güncelleme: {{ date "2006-01-02 15:04:05" }}</i>
 </div>
