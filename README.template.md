@@ -1,32 +1,33 @@
-# 👨‍💻 Ramazan TÜFEKÇİ
-
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJ1OWMwNmR2MWh1OXFlZnUyNWxieDdzNWNxbW5uMWt0OG1jbDN3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="tech"/>
   
-  ### System Administrator & Network Security Associate
-  13 Yıllık Sistem Yönetimi | 7+ Yıl Ağ Güvenliği Deneyimi
+  # 👨‍💻 Ramazan TÜFEKÇİ
+  
+  <p align="center">
+    <strong>System Administrator & Network Security Associate</strong>
+    <br>
+    <small>13 Yıllık Sistem Yönetimi | 7+ Yıl Ağ Güvenliği Deneyimi</small>
+  </p>
 </div>
 
-## 🔭 Üzerinde Çalıştığım Projeler
+## 🚀 Uzmanlık Alanlarım
+
+- 🛡️ Sistem Yönetimi ve Ağ Güvenliği
+- 🌐 Network Altyapı Çözümleri
+- 🔒 Siber Güvenlik Danışmanlığı
+- 💻 Sunucu Yönetimi ve Optimizasyonu
+
+## 👨‍💻 Son Aktivitelerim
+
 {{ range recentContributions 5 }}
-- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }} ({{ humanize .OccurredAt }})
+- {{ .Repo.Name }} - {{ .Repo.Description }} ({{ humanize .OccurredAt }})
 {{ end }}
 
-## 🌟 Son Yayınlar
+## 📦 Son Yayınlarım
+
 {{ range recentReleases 5 }}
 - [{{ .Name }}]({{ .URL }}) ([{{ .LastRelease.TagName }}]({{ .LastRelease.URL }}), {{ humanize .LastRelease.PublishedAt }}) - {{ .Description }}
 {{ end }}
-
-## 🛠️ Teknoloji Stack'im
-
-<div align="center">
-  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-00979D?style=for-the-badge&logo=cisco&logoColor=white)
-  
-</div>
 
 ## 📊 GitHub İstatistiklerim
 
@@ -48,6 +49,12 @@
 
 <div align="center">
   
-![Profil Ziyaretçi Sayısı](https://profile-counter.glitch.me/ramazantufekci/count.svg)
+  ![Profil Ziyaretçi Sayısı](https://profile-counter.glitch.me/ramazantufekci/count.svg)
   
+</div>
+
+---
+
+<div align="center">
+  <i>🌟 Son güncelleme: {{ time.Now | date "02-01-2006 15:04:05" }} 🌟</i>
 </div>
