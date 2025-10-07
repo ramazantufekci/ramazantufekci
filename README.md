@@ -12,7 +12,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ramazantufekci/fortisms](https://github.com/ramazantufekci/fortisms) - Fortigate firewall two factor sms server (today)
+- [ramazantufekci/fortisms](https://github.com/ramazantufekci/fortisms) - Fortigate firewall two factor sms server (1 day ago)
 - [ramazantufekci/jules](https://github.com/ramazantufekci/jules) -  (1 week ago)
 - [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (1 month ago)
 - [ramazantuf/laravel](https://github.com/ramazantuf/laravel) -  (1 month ago)
