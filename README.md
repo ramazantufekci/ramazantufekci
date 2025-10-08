@@ -52,5 +52,5 @@
 </p>
 
 <div align="center">
-  <i>🌟 Son Güncelleme: 2025-10-08  22:08:29</i>
+  <i>🌟 Son Güncelleme: 2025-10-08  23:08:30</i>
 </div>
