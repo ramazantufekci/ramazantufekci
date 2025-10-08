@@ -23,7 +23,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
         with:
-          template: "templates/README.md.tpl"
+          template: "README.template.md"
           writeTo: "README.md"  
 
       - uses: stefanzweifel/git-auto-commit-action@v4
