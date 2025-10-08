@@ -49,7 +49,7 @@ jobs:
         with:
           template: "README.template.md"
           writeTo: "README.md"  
-
+      - uses: actions/checkout@master
       - uses: stefanzweifel/git-auto-commit-action@v4
         env:
           GITHUB_TOKEN: ${{ secrets.GIHUB_TOKEN }}
