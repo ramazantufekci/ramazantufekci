@@ -52,5 +52,5 @@
 </p>
 
 <div align="center">
-  <i>🌟 Son Güncelleme: {{formdate}}</i>
+  <i>🌟 Son Güncelleme: {#formdate#}</i>
 </div>
