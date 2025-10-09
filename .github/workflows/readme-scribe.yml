@@ -8,33 +8,8 @@ on:
     - cron: "0 */1 * * *"
 
 jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - name: Repo klonla
-        uses: actions/checkout@v4
-
-      - name: Python kurulum
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.x'
-
-      - name: README dosyasını oluştur
-        run: python .github/scripts/update_readmee.py
-
-      - name: Commit ve push et
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git commit -m "README otomatik güncellendi" || echo "Değişiklik yok"
-          git push
-
   markscribe:
     runs-on: ubuntu-latest
-    needs: update-readme
     steps:
       - name: "deneme"
         env:
@@ -49,7 +24,6 @@ jobs:
         with:
           template: "README.template.md"
           writeTo: "README.md"  
-      - uses: actions/checkout@master
       - uses: stefanzweifel/git-auto-commit-action@v4
         env:
           GITHUB_TOKEN: ${{ secrets.GIHUB_TOKEN }}
