@@ -8,8 +8,31 @@ on:
     - cron: "0 */1 * * *"
 
 jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Repo klonla
+        uses: actions/checkout@v4
+
+      - name: Python kurulum
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: README dosyasını oluştur
+        run: python .github/scripts/update_readmee.py
+
+      - name: Commit ve push et
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "README otomatik güncellendi" || echo "Değişiklik yok"
+          git push
   markscribe:
     runs-on: ubuntu-latest
+    needs: update-readme
     steps:
       - name: "deneme"
         env:
@@ -30,26 +53,5 @@ jobs:
         with:
           commit_message: Update generated README
           branch: master
-  update-readme:
-    runs-on: ubuntu-latest
-    needs: markscribe
-    steps:
-      - name: Repo klonla
-        uses: actions/checkout@v4
-
-      - name: Python kurulum
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.x'
-
-      - name: README dosyasını oluştur
-        run: python .github/scripts/update_readmee.py
-
-      - name: Commit ve push et
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git commit -m "README otomatik güncellendi" || echo "Değişiklik yok"
-          git push
+  
           
