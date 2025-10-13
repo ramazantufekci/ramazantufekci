@@ -15,9 +15,9 @@
 ### 👨‍💻 Şu anda üzerinde çalıştığım projeler
 
 
-- [ramazantufekci/fortisms](https://github.com/ramazantufekci/fortisms) - Fortigate firewall two factor SMS Authentication (6 days ago)
+- [ramazantufekci/fortisms](https://github.com/ramazantufekci/fortisms) - Fortigate firewall two factor SMS Authentication (1 week ago)
 
-- [ramazantufekci/jules](https://github.com/ramazantufekci/jules) -  (1 week ago)
+- [ramazantufekci/jules](https://github.com/ramazantufekci/jules) -  (2 weeks ago)
 
 - [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (1 month ago)
 
@@ -37,7 +37,7 @@
 ### 🔍 Son GitHub Aktiviteleri
 
 
-- [ramazantufekci/ramazantufekci](https://github.com/ramazantufekci/ramazantufekci) ([8](https://github.com/ramazantufekci/ramazantufekci/releases/tag/8), 5 days ago)
+- [ramazantufekci/ramazantufekci](https://github.com/ramazantufekci/ramazantufekci) ([8](https://github.com/ramazantufekci/ramazantufekci/releases/tag/8), 6 days ago)
 
 
 
