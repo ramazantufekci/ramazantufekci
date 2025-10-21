@@ -37,7 +37,7 @@
 ### 🔍 Son GitHub Aktiviteleri
 
 
-- [ramazantufekci/ramazantufekci](https://github.com/ramazantufekci/ramazantufekci) ([8](https://github.com/ramazantufekci/ramazantufekci/releases/tag/8), 1 week ago)
+- [ramazantufekci/ramazantufekci](https://github.com/ramazantufekci/ramazantufekci) ([8](https://github.com/ramazantufekci/ramazantufekci/releases/tag/8), 2 weeks ago)
 
 
 
