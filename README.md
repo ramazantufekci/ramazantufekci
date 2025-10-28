@@ -19,7 +19,7 @@
 
 - [ramazantufekci/jules](https://github.com/ramazantufekci/jules) -  (4 weeks ago)
 
-- [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (1 month ago)
+- [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (2 months ago)
 
 - [ramazantuf/laravel](https://github.com/ramazantuf/laravel) -  (2 months ago)
 
@@ -37,7 +37,7 @@
 ### 🔍 Son GitHub Aktiviteleri
 
 
-- [ramazantufekci/ramazantufekci](https://github.com/ramazantufekci/ramazantufekci) ([8](https://github.com/ramazantufekci/ramazantufekci/releases/tag/8), 2 weeks ago)
+- [ramazantufekci/ramazantufekci](https://github.com/ramazantufekci/ramazantufekci) ([8](https://github.com/ramazantufekci/ramazantufekci/releases/tag/8), 3 weeks ago)
 
 
 
