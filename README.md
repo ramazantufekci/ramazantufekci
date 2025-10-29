@@ -17,7 +17,7 @@
 
 - [ramazantufekci/fortisms](https://github.com/ramazantufekci/fortisms) - Fortigate firewall two factor SMS Authentication (3 weeks ago)
 
-- [ramazantufekci/jules](https://github.com/ramazantufekci/jules) -  (4 weeks ago)
+- [ramazantufekci/jules](https://github.com/ramazantufekci/jules) -  (1 month ago)
 
 - [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (2 months ago)
 
