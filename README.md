@@ -13,19 +13,11 @@
 - 📚 Sürekli öğrenme ve kendini geliştirme odaklı
 
 ### 👨‍💻 Şu anda üzerinde çalıştığım projeler
-
-
-- [ramazantufekci/fortisms](https://github.com/ramazantufekci/fortisms) - Fortigate firewall two factor SMS Authentication (3 weeks ago)
-
-- [ramazantufekci/jules](https://github.com/ramazantufekci/jules) -  (1 month ago)
-
-- [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (2 months ago)
-
-- [ramazantuf/laravel](https://github.com/ramazantuf/laravel) -  (2 months ago)
-
-- [ramazantufekcisnmp/.github](https://github.com/ramazantufekcisnmp/.github) -  (4 months ago)
-
-
+<!-- BLOG-POST-LIST:START -->
+{{ range recentContributions 5 }}
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }} ({{ humanize .OccurredAt }})
+{{ end }}
+<!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub İstatistiklerim
 
@@ -35,11 +27,11 @@
 </p>
 
 ### 🔍 Son GitHub Aktiviteleri
-
-
-- [ramazantufekci/ramazantufekci](https://github.com/ramazantufekci/ramazantufekci) ([8](https://github.com/ramazantufekci/ramazantufekci/releases/tag/8), 3 weeks ago)
-
-
+<!-- GITHUB-ACTIVITY-LIST:START -->
+{{ range recentReleases 5 }}
+- [{{ .Name }}]({{ .URL }}) ([{{ .LastRelease.TagName }}]({{ .LastRelease.URL }}), {{ humanize .LastRelease.PublishedAt }})
+{{ end }}
+<!-- GITHUB-ACTIVITY-LIST:END -->
 
 ### 🤝 İletişim
 
@@ -60,5 +52,5 @@
 </p>
 
 <div align="center">
-  <i>🌟 Son Güncelleme: 2025-11-02  00:51:06</i>
+  <i>🌟 Son Güncelleme: {#formdate#}</i>
 </div>
