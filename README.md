@@ -15,7 +15,7 @@
 ### 👨‍💻 Şu anda üzerinde çalıştığım projeler
 
 
-- [ramazantufekci/fortisms](https://github.com/ramazantufekci/fortisms) - Fortigate firewall two factor SMS Authentication (4 weeks ago)
+- [ramazantufekci/fortisms](https://github.com/ramazantufekci/fortisms) - Fortigate firewall two factor SMS Authentication (1 month ago)
 
 - [ramazantufekci/jules](https://github.com/ramazantufekci/jules) -  (1 month ago)
 
