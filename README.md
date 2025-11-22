@@ -15,7 +15,7 @@
 ### 👨‍💻 Şu anda üzerinde çalıştığım projeler
 
 
-- [bilgislem/bilgislem.github.io](https://github.com/bilgislem/bilgislem.github.io) -  (1 day ago)
+- [bilgislem/bilgislem.github.io](https://github.com/bilgislem/bilgislem.github.io) -  (2 days ago)
 
 - [ramazantufekci/fortisms](https://github.com/ramazantufekci/fortisms) - Fortigate firewall two factor SMS Authentication (1 month ago)
 
