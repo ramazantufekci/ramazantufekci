@@ -60,5 +60,5 @@
 </p>
 
 <div align="center">
-  <i>🌟 Son Güncelleme: 2026-01-17  05:11:47</i>
+  <i>🌟 Son Güncelleme: {#formdate#}</i>
 </div>
