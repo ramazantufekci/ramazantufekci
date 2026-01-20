@@ -37,7 +37,7 @@
 ### 🔍 Son GitHub Aktiviteleri
 
 
-- [ramazantufekci/aws](https://github.com/ramazantufekci/aws) ([v1.0.1](https://github.com/ramazantufekci/aws/releases/tag/v1.0.1), today)
+- [ramazantufekci/aws](https://github.com/ramazantufekci/aws) ([v1.0.3](https://github.com/ramazantufekci/aws/releases/tag/v1.0.3), today)
 
 - [ramazantufekci/ramazantufekci](https://github.com/ramazantufekci/ramazantufekci) ([8](https://github.com/ramazantufekci/ramazantufekci/releases/tag/8), 3 months ago)
 
@@ -62,5 +62,5 @@
 </p>
 
 <div align="center">
-  <i>🌟 Son Güncelleme: 2026-01-20  10:16:02</i>
+  <i>🌟 Son Güncelleme: {#formdate#}</i>
 </div>
