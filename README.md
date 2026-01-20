@@ -15,6 +15,8 @@
 ### 👨‍💻 Şu anda üzerinde çalıştığım projeler
 
 
+- [ramazantufekci/aws](https://github.com/ramazantufekci/aws) -  (today)
+
 - [bilgislem/bilgislem.github.io](https://github.com/bilgislem/bilgislem.github.io) -  (1 month ago)
 
 - [ramazantufekci/fortisms](https://github.com/ramazantufekci/fortisms) - Fortigate firewall two factor SMS Authentication (3 months ago)
@@ -22,8 +24,6 @@
 - [ramazantufekci/jules](https://github.com/ramazantufekci/jules) -  (3 months ago)
 
 - [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (4 months ago)
-
-- [ramazantuf/laravel](https://github.com/ramazantuf/laravel) -  (5 months ago)
 
 
 
@@ -60,5 +60,5 @@
 </p>
 
 <div align="center">
-  <i>🌟 Son Güncelleme: 2026-01-20  06:19:34</i>
+  <i>🌟 Son Güncelleme: {#formdate#}</i>
 </div>
