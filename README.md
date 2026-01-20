@@ -37,6 +37,8 @@
 ### 🔍 Son GitHub Aktiviteleri
 
 
+- [ramazantufekci/aws](https://github.com/ramazantufekci/aws) ([v0.0.1](https://github.com/ramazantufekci/aws/releases/tag/v0.0.1), today)
+
 - [ramazantufekci/ramazantufekci](https://github.com/ramazantufekci/ramazantufekci) ([8](https://github.com/ramazantufekci/ramazantufekci/releases/tag/8), 3 months ago)
 
 
