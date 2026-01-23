@@ -13,11 +13,19 @@
 - 📚 Sürekli öğrenme ve kendini geliştirme odaklı
 
 ### 👨‍💻 Şu anda üzerinde çalıştığım projeler
-<!-- BLOG-POST-LIST:START -->
-{{ range recentContributions 5 }}
-- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }} ({{ humanize .OccurredAt }})
-{{ end }}
-<!-- BLOG-POST-LIST:END -->
+
+
+- [ramazantufekci/aws-serverless](https://github.com/ramazantufekci/aws-serverless) -  (3 days ago)
+
+- [bilgislem/bilgislem.github.io](https://github.com/bilgislem/bilgislem.github.io) -  (1 month ago)
+
+- [ramazantufekci/fortisms](https://github.com/ramazantufekci/fortisms) - Fortigate firewall two factor SMS Authentication (3 months ago)
+
+- [ramazantufekci/jules](https://github.com/ramazantufekci/jules) -  (3 months ago)
+
+- [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (4 months ago)
+
+
 
 ### 📊 GitHub İstatistiklerim
 
@@ -27,11 +35,13 @@
 </p>
 
 ### 🔍 Son GitHub Aktiviteleri
-<!-- GITHUB-ACTIVITY-LIST:START -->
-{{ range recentReleases 5 }}
-- [{{ .Name }}]({{ .URL }}) ([{{ .LastRelease.TagName }}]({{ .LastRelease.URL }}), {{ humanize .LastRelease.PublishedAt }})
-{{ end }}
-<!-- GITHUB-ACTIVITY-LIST:END -->
+
+
+- [ramazantufekci/aws-serverless](https://github.com/ramazantufekci/aws-serverless) ([v1.0.4](https://github.com/ramazantufekci/aws-serverless/releases/tag/v1.0.4), 3 days ago)
+
+- [ramazantufekci/ramazantufekci](https://github.com/ramazantufekci/ramazantufekci) ([8](https://github.com/ramazantufekci/ramazantufekci/releases/tag/8), 3 months ago)
+
+
 
 ### 🤝 İletişim
 
