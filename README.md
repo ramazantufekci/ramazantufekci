@@ -37,8 +37,6 @@
 ### 🔍 Son GitHub Aktiviteleri
 
 
-- [ramazantufekci/k8s-laravel](https://github.com/ramazantufekci/k8s-laravel) ([0.0.2](https://github.com/ramazantufekci/k8s-laravel/releases/tag/0.0.2), 1 day ago)
-
 - [ramazantufekci/aws-serverless](https://github.com/ramazantufekci/aws-serverless) ([v1.0.4](https://github.com/ramazantufekci/aws-serverless/releases/tag/v1.0.4), 2 weeks ago)
 
 - [ramazantufekci/ramazantufekci](https://github.com/ramazantufekci/ramazantufekci) ([8](https://github.com/ramazantufekci/ramazantufekci/releases/tag/8), 3 months ago)
