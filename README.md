@@ -15,9 +15,9 @@
 ### 👨‍💻 Şu anda üzerinde çalıştığım projeler
 
 
-- [ramazantufekci/not](https://github.com/ramazantufekci/not) - php ile not tutma (4 days ago)
+- [ramazantufekci/not](https://github.com/ramazantufekci/not) - php ile not tutma (5 days ago)
 
-- [ramazantufekci/k8s-laravel](https://github.com/ramazantufekci/k8s-laravel) -  (5 days ago)
+- [ramazantufekci/k8s-laravel](https://github.com/ramazantufekci/k8s-laravel) -  (6 days ago)
 
 - [ramazantufekci/aws-serverless](https://github.com/ramazantufekci/aws-serverless) -  (3 weeks ago)
 
@@ -62,5 +62,5 @@
 </p>
 
 <div align="center">
-  <i>🌟 Son Güncelleme: 2026-02-10  23:28:33</i>
+  <i>🌟 Son Güncelleme: {#formdate#}</i>
 </div>
