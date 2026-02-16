@@ -15,7 +15,7 @@
 ### 👨‍💻 Şu anda üzerinde çalıştığım projeler
 
 
-- [ramazantufekci/not](https://github.com/ramazantufekci/not) - php ile not tutma (2 days ago)
+- [ramazantufekci/not](https://github.com/ramazantufekci/not) - php ile not tutma (3 days ago)
 
 - [ramazantufekci/k8s-laravel](https://github.com/ramazantufekci/k8s-laravel) -  (1 week ago)
 
