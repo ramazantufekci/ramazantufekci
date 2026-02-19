@@ -15,11 +15,11 @@
 ### 👨‍💻 Şu anda üzerinde çalıştığım projeler
 
 
-- [ramazantufekci/not](https://github.com/ramazantufekci/not) - php ile not tutma (5 days ago)
+- [ramazantufekci/not](https://github.com/ramazantufekci/not) - php ile not tutma (6 days ago)
 
-- [ramazantufekci/k8s-laravel](https://github.com/ramazantufekci/k8s-laravel) -  (1 week ago)
+- [ramazantufekci/k8s-laravel](https://github.com/ramazantufekci/k8s-laravel) -  (2 weeks ago)
 
-- [ramazantufekci/aws-serverless](https://github.com/ramazantufekci/aws-serverless) -  (4 weeks ago)
+- [ramazantufekci/aws-serverless](https://github.com/ramazantufekci/aws-serverless) -  (1 month ago)
 
 - [bilgislem/bilgislem.github.io](https://github.com/bilgislem/bilgislem.github.io) -  (2 months ago)
 
@@ -37,7 +37,7 @@
 ### 🔍 Son GitHub Aktiviteleri
 
 
-- [ramazantufekci/aws-serverless](https://github.com/ramazantufekci/aws-serverless) ([v1.0.4](https://github.com/ramazantufekci/aws-serverless/releases/tag/v1.0.4), 4 weeks ago)
+- [ramazantufekci/aws-serverless](https://github.com/ramazantufekci/aws-serverless) ([v1.0.4](https://github.com/ramazantufekci/aws-serverless/releases/tag/v1.0.4), 1 month ago)
 
 - [ramazantufekci/ramazantufekci](https://github.com/ramazantufekci/ramazantufekci) ([8](https://github.com/ramazantufekci/ramazantufekci/releases/tag/8), 4 months ago)
 
