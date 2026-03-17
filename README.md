@@ -15,6 +15,8 @@
 ### 👨‍💻 Şu anda üzerinde çalıştığım projeler
 
 
+- [ramazantufekci/freeradius-ldap](https://github.com/ramazantufekci/freeradius-ldap) -  (today)
+
 - [ramazantufekci/not](https://github.com/ramazantufekci/not) - php ile not tutma (1 month ago)
 
 - [ramazantufekci/k8s-laravel](https://github.com/ramazantufekci/k8s-laravel) -  (1 month ago)
@@ -22,8 +24,6 @@
 - [ramazantufekci/aws-serverless](https://github.com/ramazantufekci/aws-serverless) -  (1 month ago)
 
 - [bilgislem/bilgislem.github.io](https://github.com/bilgislem/bilgislem.github.io) -  (3 months ago)
-
-- [ramazantufekci/fortisms](https://github.com/ramazantufekci/fortisms) - Fortigate firewall two factor SMS Authentication (5 months ago)
 
 
 
