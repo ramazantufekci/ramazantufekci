@@ -15,11 +15,11 @@
 ### 👨‍💻 Şu anda üzerinde çalıştığım projeler
 
 
-- [ramazantufekci/freeradius-ldap](https://github.com/ramazantufekci/freeradius-ldap) -  (6 days ago)
+- [ramazantufekci/freeradius-ldap](https://github.com/ramazantufekci/freeradius-ldap) -  (1 week ago)
 
-- [ramazantufekci/.github](https://github.com/ramazantufekci/.github) -  (6 days ago)
+- [ramazantufekci/.github](https://github.com/ramazantufekci/.github) -  (1 week ago)
 
-- [ramazantufekci/not](https://github.com/ramazantufekci/not) - php ile not tutma (1 month ago)
+- [ramazantufekci/not](https://github.com/ramazantufekci/not) - php ile not tutma (2 months ago)
 
 - [ramazantufekci/k8s-laravel](https://github.com/ramazantufekci/k8s-laravel) -  (2 months ago)
 
@@ -62,5 +62,5 @@
 </p>
 
 <div align="center">
-  <i>🌟 Son Güncelleme: 2026-04-13  23:33:18</i>
+  <i>🌟 Son Güncelleme: {#formdate#}</i>
 </div>
