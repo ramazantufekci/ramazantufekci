@@ -15,7 +15,7 @@
 ### 👨‍💻 Şu anda üzerinde çalıştığım projeler
 
 
-- [ramazantufekci/blockips](https://github.com/ramazantufekci/blockips) -  (2 days ago)
+- [ramazantufekci/blockips](https://github.com/ramazantufekci/blockips) -  (3 days ago)
 
 - [ramazantufekci/.github](https://github.com/ramazantufekci/.github) -  (1 week ago)
 
@@ -62,5 +62,5 @@
 </p>
 
 <div align="center">
-  <i>🌟 Son Güncelleme: 2026-04-16  23:30:05</i>
+  <i>🌟 Son Güncelleme: {#formdate#}</i>
 </div>
