@@ -13,19 +13,11 @@
 - 📚 Sürekli öğrenme ve kendini geliştirme odaklı
 
 ### 👨‍💻 Şu anda üzerinde çalıştığım projeler
-
-
-- [ramazantufekci/blockips](https://github.com/ramazantufekci/blockips) -  (5 days ago)
-
-- [ramazantufekci/.github](https://github.com/ramazantufekci/.github) -  (1 week ago)
-
-- [ramazantufekci/freeradius-ldap](https://github.com/ramazantufekci/freeradius-ldap) -  (1 week ago)
-
-- [ramazantufekci/not](https://github.com/ramazantufekci/not) - php ile not tutma (2 months ago)
-
-- [ramazantufekci/k8s-laravel](https://github.com/ramazantufekci/k8s-laravel) -  (2 months ago)
-
-
+<!-- BLOG-POST-LIST:START -->
+{{ range recentContributions 5 }}
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }} ({{ humanize .OccurredAt }})
+{{ end }}
+<!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub İstatistiklerim
 
@@ -35,13 +27,11 @@
 </p>
 
 ### 🔍 Son GitHub Aktiviteleri
-
-
-- [ramazantufekci/aws-serverless](https://github.com/ramazantufekci/aws-serverless) ([v1.0.4](https://github.com/ramazantufekci/aws-serverless/releases/tag/v1.0.4), 2 months ago)
-
-- [ramazantufekci/ramazantufekci](https://github.com/ramazantufekci/ramazantufekci) ([8](https://github.com/ramazantufekci/ramazantufekci/releases/tag/8), 6 months ago)
-
-
+<!-- GITHUB-ACTIVITY-LIST:START -->
+{{ range recentReleases 5 }}
+- [{{ .Name }}]({{ .URL }}) ([{{ .LastRelease.TagName }}]({{ .LastRelease.URL }}), {{ humanize .LastRelease.PublishedAt }})
+{{ end }}
+<!-- GITHUB-ACTIVITY-LIST:END -->
 
 ### 🤝 İletişim
 
