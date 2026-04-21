@@ -15,11 +15,11 @@
 ### 👨‍💻 Şu anda üzerinde çalıştığım projeler
 
 
-- [ramazantufekci/blockips](https://github.com/ramazantufekci/blockips) -  (6 days ago)
+- [ramazantufekci/blockips](https://github.com/ramazantufekci/blockips) -  (1 week ago)
 
-- [ramazantufekci/.github](https://github.com/ramazantufekci/.github) -  (1 week ago)
+- [ramazantufekci/.github](https://github.com/ramazantufekci/.github) -  (2 weeks ago)
 
-- [ramazantufekci/freeradius-ldap](https://github.com/ramazantufekci/freeradius-ldap) -  (1 week ago)
+- [ramazantufekci/freeradius-ldap](https://github.com/ramazantufekci/freeradius-ldap) -  (2 weeks ago)
 
 - [ramazantufekci/not](https://github.com/ramazantufekci/not) - php ile not tutma (2 months ago)
 
