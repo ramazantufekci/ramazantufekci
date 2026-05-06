@@ -21,7 +21,7 @@
 
 - [ramazantufekci/not](https://github.com/ramazantufekci/not) - php ile not tutma (2 months ago)
 
-- [ramazantufekci/k8s-laravel](https://github.com/ramazantufekci/k8s-laravel) -  (2 months ago)
+- [ramazantufekci/k8s-laravel](https://github.com/ramazantufekci/k8s-laravel) -  (3 months ago)
 
 - [ramazantufekci/aws-serverless](https://github.com/ramazantufekci/aws-serverless) -  (3 months ago)
 
