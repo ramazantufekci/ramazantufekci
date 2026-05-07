@@ -17,7 +17,7 @@
 
 - [ramazantufekci/freeradius-ldap](https://github.com/ramazantufekci/freeradius-ldap) -  (1 week ago)
 
-- [ramazantufekci/.github](https://github.com/ramazantufekci/.github) -  (4 weeks ago)
+- [ramazantufekci/.github](https://github.com/ramazantufekci/.github) -  (1 month ago)
 
 - [ramazantufekci/not](https://github.com/ramazantufekci/not) - php ile not tutma (2 months ago)
 
