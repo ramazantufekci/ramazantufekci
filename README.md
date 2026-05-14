@@ -19,7 +19,7 @@
 
 - [ramazantufekci/.github](https://github.com/ramazantufekci/.github) -  (1 month ago)
 
-- [ramazantufekci/not](https://github.com/ramazantufekci/not) - php ile not tutma (2 months ago)
+- [ramazantufekci/not](https://github.com/ramazantufekci/not) - php ile not tutma (3 months ago)
 
 - [ramazantufekci/k8s-laravel](https://github.com/ramazantufekci/k8s-laravel) -  (3 months ago)
 
