@@ -21,7 +21,7 @@
 
 - [ramazantufekci/not](https://github.com/ramazantufekci/not) - php ile not tutma (3 months ago)
 
-- [ramazantufekci/k8s-laravel](https://github.com/ramazantufekci/k8s-laravel) -  (3 months ago)
+- [ramazantufekci/k8s-laravel](https://github.com/ramazantufekci/k8s-laravel) -  (4 months ago)
 
 - [ramazantufekci/aws-serverless](https://github.com/ramazantufekci/aws-serverless) -  (4 months ago)
 
@@ -62,5 +62,5 @@
 </p>
 
 <div align="center">
-  <i>🌟 Son Güncelleme: 2026-06-04  22:59:11</i>
+  <i>🌟 Son Güncelleme: {#formdate#}</i>
 </div>
