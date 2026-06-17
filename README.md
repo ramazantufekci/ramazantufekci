@@ -15,11 +15,11 @@
 ### 👨‍💻 Şu anda üzerinde çalıştığım projeler
 
 
+- [ramazantufekci/not](https://github.com/ramazantufekci/not) - php ile not tutma (today)
+
 - [ramazantufekci/freeradius-ldap](https://github.com/ramazantufekci/freeradius-ldap) -  (1 month ago)
 
 - [ramazantufekci/.github](https://github.com/ramazantufekci/.github) -  (2 months ago)
-
-- [ramazantufekci/not](https://github.com/ramazantufekci/not) - php ile not tutma (4 months ago)
 
 - [ramazantufekci/k8s-laravel](https://github.com/ramazantufekci/k8s-laravel) -  (4 months ago)
 
