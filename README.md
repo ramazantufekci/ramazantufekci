@@ -15,7 +15,7 @@
 ### 👨‍💻 Şu anda üzerinde çalıştığım projeler
 
 
-- [ramazantufekci/not](https://github.com/ramazantufekci/not) - php ile not tutma (today)
+- [ramazantufekci/not](https://github.com/ramazantufekci/not) - php ile not tutma (1 day ago)
 
 - [ramazantufekci/freeradius-ldap](https://github.com/ramazantufekci/freeradius-ldap) -  (1 month ago)
 
@@ -62,5 +62,5 @@
 </p>
 
 <div align="center">
-  <i>🌟 Son Güncelleme: 2026-06-17  23:14:21</i>
+  <i>🌟 Son Güncelleme: {#formdate#}</i>
 </div>
