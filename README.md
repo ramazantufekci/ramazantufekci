@@ -39,7 +39,7 @@
 
 - [ramazantufekci/aws-serverless](https://github.com/ramazantufekci/aws-serverless) ([v1.0.4](https://github.com/ramazantufekci/aws-serverless/releases/tag/v1.0.4), 5 months ago)
 
-- [ramazantufekci/ramazantufekci](https://github.com/ramazantufekci/ramazantufekci) ([8](https://github.com/ramazantufekci/ramazantufekci/releases/tag/8), 8 months ago)
+- [ramazantufekci/ramazantufekci](https://github.com/ramazantufekci/ramazantufekci) ([8](https://github.com/ramazantufekci/ramazantufekci/releases/tag/8), 9 months ago)
 
 
 
@@ -62,5 +62,5 @@
 </p>
 
 <div align="center">
-  <i>🌟 Son Güncelleme: 2026-07-03  23:54:19</i>
+  <i>🌟 Son Güncelleme: {#formdate#}</i>
 </div>
