@@ -21,7 +21,7 @@
 
 - [ramazantufekci/.github](https://github.com/ramazantufekci/.github) -  (2 months ago)
 
-- [ramazantufekci/k8s-laravel](https://github.com/ramazantufekci/k8s-laravel) -  (4 months ago)
+- [ramazantufekci/k8s-laravel](https://github.com/ramazantufekci/k8s-laravel) -  (5 months ago)
 
 - [ramazantufekci/aws-serverless](https://github.com/ramazantufekci/aws-serverless) -  (5 months ago)
 
@@ -62,5 +62,5 @@
 </p>
 
 <div align="center">
-  <i>🌟 Son Güncelleme: 2026-07-04  23:51:03</i>
+  <i>🌟 Son Güncelleme: {#formdate#}</i>
 </div>
