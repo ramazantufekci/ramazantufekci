@@ -15,7 +15,7 @@
 ### 👨‍💻 Şu anda üzerinde çalıştığım projeler
 
 
-- [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (today)
+- [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (1 day ago)
 
 - [ramazantufekci/not](https://github.com/ramazantufekci/not) - php ile not tutma (3 weeks ago)
 
@@ -62,5 +62,5 @@
 </p>
 
 <div align="center">
-  <i>🌟 Son Güncelleme: 2026-07-10  23:45:09</i>
+  <i>🌟 Son Güncelleme: {#formdate#}</i>
 </div>
