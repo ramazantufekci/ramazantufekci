@@ -15,9 +15,9 @@
 ### 👨‍💻 Şu anda üzerinde çalıştığım projeler
 
 
-- [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (6 days ago)
+- [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (1 week ago)
 
-- [ramazantufekci/not](https://github.com/ramazantufekci/not) - php ile not tutma (4 weeks ago)
+- [ramazantufekci/not](https://github.com/ramazantufekci/not) - php ile not tutma (1 month ago)
 
 - [ramazantufekci/freeradius-ldap](https://github.com/ramazantufekci/freeradius-ldap) -  (2 months ago)
 
@@ -62,5 +62,5 @@
 </p>
 
 <div align="center">
-  <i>🌟 Son Güncelleme: 2026-07-16  23:45:38</i>
+  <i>🌟 Son Güncelleme: {#formdate#}</i>
 </div>
