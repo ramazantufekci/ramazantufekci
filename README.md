@@ -15,6 +15,8 @@
 ### 👨‍💻 Şu anda üzerinde çalıştığım projeler
 
 
+- [ramazantufekci/xps-merge](https://github.com/ramazantufekci/xps-merge) -  (today)
+
 - [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (1 week ago)
 
 - [ramazantufekci/not](https://github.com/ramazantufekci/not) - php ile not tutma (1 month ago)
@@ -22,8 +24,6 @@
 - [ramazantufekci/freeradius-ldap](https://github.com/ramazantufekci/freeradius-ldap) -  (2 months ago)
 
 - [ramazantufekci/.github](https://github.com/ramazantufekci/.github) -  (3 months ago)
-
-- [ramazantufekci/k8s-laravel](https://github.com/ramazantufekci/k8s-laravel) -  (5 months ago)
 
 
 
@@ -36,6 +36,8 @@
 
 ### 🔍 Son GitHub Aktiviteleri
 
+
+- [ramazantufekci/xps-merge](https://github.com/ramazantufekci/xps-merge) ([v1.6](https://github.com/ramazantufekci/xps-merge/releases/tag/v1.6), today)
 
 - [ramazantufekci/aws-serverless](https://github.com/ramazantufekci/aws-serverless) ([v1.0.4](https://github.com/ramazantufekci/aws-serverless/releases/tag/v1.0.4), 5 months ago)
 
@@ -62,5 +64,5 @@
 </p>
 
 <div align="center">
-  <i>🌟 Son Güncelleme: 2026-07-17  07:08:03</i>
+  <i>🌟 Son Güncelleme: {#formdate#}</i>
 </div>
