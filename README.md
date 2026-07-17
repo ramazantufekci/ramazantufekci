@@ -37,7 +37,7 @@
 ### 🔍 Son GitHub Aktiviteleri
 
 
-- [ramazantufekci/xps-merge](https://github.com/ramazantufekci/xps-merge) ([v1.6](https://github.com/ramazantufekci/xps-merge/releases/tag/v1.6), today)
+- [ramazantufekci/xps-merge](https://github.com/ramazantufekci/xps-merge) ([v1.1](https://github.com/ramazantufekci/xps-merge/releases/tag/v1.1), today)
 
 - [ramazantufekci/aws-serverless](https://github.com/ramazantufekci/aws-serverless) ([v1.0.4](https://github.com/ramazantufekci/aws-serverless/releases/tag/v1.0.4), 5 months ago)
 
@@ -64,5 +64,5 @@
 </p>
 
 <div align="center">
-  <i>🌟 Son Güncelleme: 2026-07-17  11:12:23</i>
+  <i>🌟 Son Güncelleme: {#formdate#}</i>
 </div>
