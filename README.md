@@ -15,7 +15,7 @@
 ### 👨‍💻 Şu anda üzerinde çalıştığım projeler
 
 
-- [ramazantufekci/xps-merge](https://github.com/ramazantufekci/xps-merge) -  (1 day ago)
+- [ramazantufekci/xps-merge](https://github.com/ramazantufekci/xps-merge) -  (2 days ago)
 
 - [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (1 week ago)
 
@@ -37,9 +37,9 @@
 ### 🔍 Son GitHub Aktiviteleri
 
 
-- [ramazantufekci/xps-merge](https://github.com/ramazantufekci/xps-merge) ([v1.1](https://github.com/ramazantufekci/xps-merge/releases/tag/v1.1), 1 day ago)
+- [ramazantufekci/xps-merge](https://github.com/ramazantufekci/xps-merge) ([v1.1](https://github.com/ramazantufekci/xps-merge/releases/tag/v1.1), 2 days ago)
 
-- [ramazantufekci/aws-serverless](https://github.com/ramazantufekci/aws-serverless) ([v1.0.4](https://github.com/ramazantufekci/aws-serverless/releases/tag/v1.0.4), 5 months ago)
+- [ramazantufekci/aws-serverless](https://github.com/ramazantufekci/aws-serverless) ([v1.0.4](https://github.com/ramazantufekci/aws-serverless/releases/tag/v1.0.4), 6 months ago)
 
 - [ramazantufekci/ramazantufekci](https://github.com/ramazantufekci/ramazantufekci) ([8](https://github.com/ramazantufekci/ramazantufekci/releases/tag/8), 9 months ago)
 
@@ -64,5 +64,5 @@
 </p>
 
 <div align="center">
-  <i>🌟 Son Güncelleme: 2026-07-18  23:40:16</i>
+  <i>🌟 Son Güncelleme: {#formdate#}</i>
 </div>
