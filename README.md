@@ -23,7 +23,7 @@
 
 - [ramazantufekci/freeradius-ldap](https://github.com/ramazantufekci/freeradius-ldap) -  (3 months ago)
 
-- [ramazantufekci/.github](https://github.com/ramazantufekci/.github) -  (3 months ago)
+- [ramazantufekci/.github](https://github.com/ramazantufekci/.github) -  (4 months ago)
 
 
 
@@ -64,5 +64,5 @@
 </p>
 
 <div align="center">
-  <i>🌟 Son Güncelleme: 2026-08-04  23:52:27</i>
+  <i>🌟 Son Güncelleme: {#formdate#}</i>
 </div>
