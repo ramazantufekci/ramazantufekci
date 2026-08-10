@@ -15,7 +15,7 @@
 ### 👨‍💻 Şu anda üzerinde çalıştığım projeler
 
 
-- [ramazantufekci/react-tip](https://github.com/ramazantufekci/react-tip) -  (3 days ago)
+- [ramazantufekci/react-tip](https://github.com/ramazantufekci/react-tip) -  (today)
 
 - [ramazantufekci/xps-merge](https://github.com/ramazantufekci/xps-merge) -  (3 weeks ago)
 
