@@ -15,9 +15,9 @@
 ### 👨‍💻 Şu anda üzerinde çalıştığım projeler
 
 
-- [ramazantufekci/react-tip](https://github.com/ramazantufekci/react-tip) -  (today)
+- [ramazantufekci/react-tip](https://github.com/ramazantufekci/react-tip) -  (1 day ago)
 
-- [ramazantufekci/xps-merge](https://github.com/ramazantufekci/xps-merge) -  (3 weeks ago)
+- [ramazantufekci/xps-merge](https://github.com/ramazantufekci/xps-merge) -  (4 weeks ago)
 
 - [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (1 month ago)
 
@@ -37,7 +37,7 @@
 ### 🔍 Son GitHub Aktiviteleri
 
 
-- [ramazantufekci/xps-merge](https://github.com/ramazantufekci/xps-merge) ([v1.1](https://github.com/ramazantufekci/xps-merge/releases/tag/v1.1), 3 weeks ago)
+- [ramazantufekci/xps-merge](https://github.com/ramazantufekci/xps-merge) ([v1.1](https://github.com/ramazantufekci/xps-merge/releases/tag/v1.1), 4 weeks ago)
 
 - [ramazantufekci/aws-serverless](https://github.com/ramazantufekci/aws-serverless) ([v1.0.4](https://github.com/ramazantufekci/aws-serverless/releases/tag/v1.0.4), 6 months ago)
 
@@ -64,5 +64,5 @@
 </p>
 
 <div align="center">
-  <i>🌟 Son Güncelleme: 2026-08-13  23:28:52</i>
+  <i>🌟 Son Güncelleme: {#formdate#}</i>
 </div>
