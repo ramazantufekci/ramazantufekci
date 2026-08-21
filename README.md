@@ -15,7 +15,7 @@
 ### 👨‍💻 Şu anda üzerinde çalıştığım projeler
 
 
-- [ramazantufekci/n](https://github.com/ramazantufekci/n) -  (1 day ago)
+- [ramazantufekci/n](https://github.com/ramazantufekci/n) -  (today)
 
 - [ramazantufekci/react-tip](https://github.com/ramazantufekci/react-tip) -  (2 days ago)
 
@@ -64,5 +64,5 @@
 </p>
 
 <div align="center">
-  <i>🌟 Son Güncelleme: 2026-08-21  05:21:13</i>
+  <i>🌟 Son Güncelleme: {#formdate#}</i>
 </div>
