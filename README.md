@@ -15,6 +15,8 @@
 ### 👨‍💻 Şu anda üzerinde çalıştığım projeler
 
 
+- [ramazantufekci/contacts](https://github.com/ramazantufekci/contacts) - Web Contacts (today)
+
 - [ramazantufekci/n](https://github.com/ramazantufekci/n) -  (5 days ago)
 
 - [ramazantufekci/react-tip](https://github.com/ramazantufekci/react-tip) -  (1 week ago)
@@ -22,8 +24,6 @@
 - [ramazantufekci/xps-merge](https://github.com/ramazantufekci/xps-merge) -  (1 month ago)
 
 - [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (1 month ago)
-
-- [ramazantufekci/not](https://github.com/ramazantufekci/not) - php ile not tutma (2 months ago)
 
 
 
@@ -64,5 +64,5 @@
 </p>
 
 <div align="center">
-  <i>🌟 Son Güncelleme: 2026-08-26  07:35:35</i>
+  <i>🌟 Son Güncelleme: {#formdate#}</i>
 </div>
