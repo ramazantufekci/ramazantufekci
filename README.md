@@ -15,9 +15,9 @@
 ### 👨‍💻 Şu anda üzerinde çalıştığım projeler
 
 
-- [ramazantufekci/contacts](https://github.com/ramazantufekci/contacts) - Web Contacts (today)
+- [ramazantufekci/contacts](https://github.com/ramazantufekci/contacts) - Web Contacts (1 day ago)
 
-- [ramazantufekci/n](https://github.com/ramazantufekci/n) -  (6 days ago)
+- [ramazantufekci/n](https://github.com/ramazantufekci/n) -  (1 week ago)
 
 - [ramazantufekci/react-tip](https://github.com/ramazantufekci/react-tip) -  (1 week ago)
 
