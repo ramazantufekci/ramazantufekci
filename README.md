@@ -23,7 +23,7 @@
 
 - [ramazantufekci/xps-merge](https://github.com/ramazantufekci/xps-merge) -  (1 month ago)
 
-- [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (1 month ago)
+- [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (2 months ago)
 
 
 
@@ -64,5 +64,5 @@
 </p>
 
 <div align="center">
-  <i>🌟 Son Güncelleme: 2026-09-07  23:06:43</i>
+  <i>🌟 Son Güncelleme: {#formdate#}</i>
 </div>
