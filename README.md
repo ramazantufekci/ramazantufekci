@@ -19,7 +19,7 @@
 
 - [ramazantufekci/n](https://github.com/ramazantufekci/n) -  (2 weeks ago)
 
-- [ramazantufekci/react-tip](https://github.com/ramazantufekci/react-tip) -  (2 weeks ago)
+- [ramazantufekci/react-tip](https://github.com/ramazantufekci/react-tip) -  (3 weeks ago)
 
 - [ramazantufekci/xps-merge](https://github.com/ramazantufekci/xps-merge) -  (1 month ago)
 
@@ -64,5 +64,5 @@
 </p>
 
 <div align="center">
-  <i>🌟 Son Güncelleme: 2026-09-08  22:06:26</i>
+  <i>🌟 Son Güncelleme: {#formdate#}</i>
 </div>
