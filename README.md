@@ -15,7 +15,7 @@
 ### 👨‍💻 Şu anda üzerinde çalıştığım projeler
 
 
-- [ramazantufekci/hadi-project](https://github.com/ramazantufekci/hadi-project) -  (today)
+- [ramazantufekci/hadi-project](https://github.com/ramazantufekci/hadi-project) -  (1 day ago)
 
 - [ramazantufekci/contacts](https://github.com/ramazantufekci/contacts) - Web Contacts (2 weeks ago)
 
@@ -23,7 +23,7 @@
 
 - [ramazantufekci/react-tip](https://github.com/ramazantufekci/react-tip) -  (3 weeks ago)
 
-- [ramazantufekci/xps-merge](https://github.com/ramazantufekci/xps-merge) -  (1 month ago)
+- [ramazantufekci/xps-merge](https://github.com/ramazantufekci/xps-merge) -  (2 months ago)
 
 
 
@@ -37,7 +37,7 @@
 ### 🔍 Son GitHub Aktiviteleri
 
 
-- [ramazantufekci/xps-merge](https://github.com/ramazantufekci/xps-merge) ([v1.1](https://github.com/ramazantufekci/xps-merge/releases/tag/v1.1), 1 month ago)
+- [ramazantufekci/xps-merge](https://github.com/ramazantufekci/xps-merge) ([v1.1](https://github.com/ramazantufekci/xps-merge/releases/tag/v1.1), 2 months ago)
 
 - [ramazantufekci/aws-serverless](https://github.com/ramazantufekci/aws-serverless) ([v1.0.4](https://github.com/ramazantufekci/aws-serverless/releases/tag/v1.0.4), 7 months ago)
 
@@ -64,5 +64,5 @@
 </p>
 
 <div align="center">
-  <i>🌟 Son Güncelleme: 2026-09-14  22:57:11</i>
+  <i>🌟 Son Güncelleme: {#formdate#}</i>
 </div>
