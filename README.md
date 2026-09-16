@@ -15,13 +15,13 @@
 ### 👨‍💻 Şu anda üzerinde çalıştığım projeler
 
 
-- [ramazantufekci/hadi-project](https://github.com/ramazantufekci/hadi-project) -  (today)
+- [ramazantufekci/hadi-project](https://github.com/ramazantufekci/hadi-project) -  (1 day ago)
 
 - [ramazantufekci/contacts](https://github.com/ramazantufekci/contacts) - Web Contacts (2 weeks ago)
 
 - [ramazantufekci/n](https://github.com/ramazantufekci/n) -  (3 weeks ago)
 
-- [ramazantufekci/react-tip](https://github.com/ramazantufekci/react-tip) -  (3 weeks ago)
+- [ramazantufekci/react-tip](https://github.com/ramazantufekci/react-tip) -  (4 weeks ago)
 
 - [ramazantufekci/xps-merge](https://github.com/ramazantufekci/xps-merge) -  (2 months ago)
 
