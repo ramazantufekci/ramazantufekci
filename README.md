@@ -15,9 +15,9 @@
 ### 👨‍💻 Şu anda üzerinde çalıştığım projeler
 
 
-- [ramazantufekci/hadi-project](https://github.com/ramazantufekci/hadi-project) -  (1 day ago)
+- [ramazantufekci/hadi-project](https://github.com/ramazantufekci/hadi-project) -  (2 days ago)
 
-- [ramazantufekci/contacts](https://github.com/ramazantufekci/contacts) - Web Contacts (2 weeks ago)
+- [ramazantufekci/contacts](https://github.com/ramazantufekci/contacts) - Web Contacts (3 weeks ago)
 
 - [ramazantufekci/n](https://github.com/ramazantufekci/n) -  (3 weeks ago)
 
@@ -39,7 +39,7 @@
 
 - [ramazantufekci/xps-merge](https://github.com/ramazantufekci/xps-merge) ([v1.1](https://github.com/ramazantufekci/xps-merge/releases/tag/v1.1), 2 months ago)
 
-- [ramazantufekci/aws-serverless](https://github.com/ramazantufekci/aws-serverless) ([v1.0.4](https://github.com/ramazantufekci/aws-serverless/releases/tag/v1.0.4), 7 months ago)
+- [ramazantufekci/aws-serverless](https://github.com/ramazantufekci/aws-serverless) ([v1.0.4](https://github.com/ramazantufekci/aws-serverless/releases/tag/v1.0.4), 8 months ago)
 
 - [ramazantufekci/ramazantufekci](https://github.com/ramazantufekci/ramazantufekci) ([8](https://github.com/ramazantufekci/ramazantufekci/releases/tag/8), 11 months ago)
 
