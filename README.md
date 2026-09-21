@@ -13,11 +13,19 @@
 - 📚 Sürekli öğrenme ve kendini geliştirme odaklı
 
 ### 👨‍💻 Şu anda üzerinde çalıştığım projeler
-<!-- BLOG-POST-LIST:START -->
-{{ range recentContributions 5 }}
-- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }} ({{ humanize .OccurredAt }})
-{{ end }}
-<!-- BLOG-POST-LIST:END -->
+
+
+- [ramazantufekci/hadi-project](https://github.com/ramazantufekci/hadi-project) -  (6 days ago)
+
+- [ramazantufekci/contacts](https://github.com/ramazantufekci/contacts) - Web Contacts (3 weeks ago)
+
+- [ramazantufekci/n](https://github.com/ramazantufekci/n) -  (1 month ago)
+
+- [ramazantufekci/react-tip](https://github.com/ramazantufekci/react-tip) -  (1 month ago)
+
+- [ramazantufekci/xps-merge](https://github.com/ramazantufekci/xps-merge) -  (2 months ago)
+
+
 
 ### 📊 GitHub İstatistiklerim
 
@@ -27,11 +35,15 @@
 </p>
 
 ### 🔍 Son GitHub Aktiviteleri
-<!-- GITHUB-ACTIVITY-LIST:START -->
-{{ range recentReleases 5 }}
-- [{{ .Name }}]({{ .URL }}) ([{{ .LastRelease.TagName }}]({{ .LastRelease.URL }}), {{ humanize .LastRelease.PublishedAt }})
-{{ end }}
-<!-- GITHUB-ACTIVITY-LIST:END -->
+
+
+- [ramazantufekci/xps-merge](https://github.com/ramazantufekci/xps-merge) ([v1.1](https://github.com/ramazantufekci/xps-merge/releases/tag/v1.1), 2 months ago)
+
+- [ramazantufekci/aws-serverless](https://github.com/ramazantufekci/aws-serverless) ([v1.0.4](https://github.com/ramazantufekci/aws-serverless/releases/tag/v1.0.4), 8 months ago)
+
+- [ramazantufekci/ramazantufekci](https://github.com/ramazantufekci/ramazantufekci) ([8](https://github.com/ramazantufekci/ramazantufekci/releases/tag/8), 11 months ago)
+
+
 
 ### 🤝 İletişim
 
