@@ -15,7 +15,7 @@
 ### 👨‍💻 Şu anda üzerinde çalıştığım projeler
 
 
-- [ramazantufekci/hadi-project](https://github.com/ramazantufekci/hadi-project) -  (5 days ago)
+- [ramazantufekci/hadi-project](https://github.com/ramazantufekci/hadi-project) -  (6 days ago)
 
 - [ramazantufekci/contacts](https://github.com/ramazantufekci/contacts) - Web Contacts (3 weeks ago)
 
@@ -64,5 +64,5 @@
 </p>
 
 <div align="center">
-  <i>🌟 Son Güncelleme: 2026-09-20  23:52:09</i>
+  <i>🌟 Son Güncelleme: {#formdate#}</i>
 </div>
