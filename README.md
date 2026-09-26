@@ -17,7 +17,7 @@
 
 - [ramazantufekci/hadi-project](https://github.com/ramazantufekci/hadi-project) -  (1 week ago)
 
-- [ramazantufekci/contacts](https://github.com/ramazantufekci/contacts) - Web Contacts (4 weeks ago)
+- [ramazantufekci/contacts](https://github.com/ramazantufekci/contacts) - Web Contacts (1 month ago)
 
 - [ramazantufekci/n](https://github.com/ramazantufekci/n) -  (1 month ago)
 
@@ -64,5 +64,5 @@
 </p>
 
 <div align="center">
-  <i>🌟 Son Güncelleme: 2026-09-25  22:54:04</i>
+  <i>🌟 Son Güncelleme: {#formdate#}</i>
 </div>
