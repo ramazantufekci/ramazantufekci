@@ -15,6 +15,8 @@
 ### 👨‍💻 Şu anda üzerinde çalıştığım projeler
 
 
+- [ramazantufekci/decentramon](https://github.com/ramazantufekci/decentramon) -  (today)
+
 - [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (2 days ago)
 
 - [ramazantufekci/hadi-project](https://github.com/ramazantufekci/hadi-project) -  (3 weeks ago)
@@ -22,8 +24,6 @@
 - [ramazantufekci/contacts](https://github.com/ramazantufekci/contacts) - Web Contacts (1 month ago)
 
 - [ramazantufekci/n](https://github.com/ramazantufekci/n) -  (1 month ago)
-
-- [ramazantufekci/react-tip](https://github.com/ramazantufekci/react-tip) -  (1 month ago)
 
 
 
