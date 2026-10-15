@@ -15,13 +15,13 @@
 ### 👨‍💻 Şu anda üzerinde çalıştığım projeler
 
 
-- [bilgislem/bilgislem.github.io](https://github.com/bilgislem/bilgislem.github.io) -  (today)
+- [bilgislem/bilgislem.github.io](https://github.com/bilgislem/bilgislem.github.io) -  (1 day ago)
 
-- [ramazantufekci/decentramon](https://github.com/ramazantufekci/decentramon) -  (5 days ago)
+- [ramazantufekci/decentramon](https://github.com/ramazantufekci/decentramon) -  (6 days ago)
 
 - [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (1 week ago)
 
-- [ramazantufekci/hadi-project](https://github.com/ramazantufekci/hadi-project) -  (4 weeks ago)
+- [ramazantufekci/hadi-project](https://github.com/ramazantufekci/hadi-project) -  (1 month ago)
 
 - [ramazantufekci/contacts](https://github.com/ramazantufekci/contacts) - Web Contacts (1 month ago)
 
@@ -37,7 +37,7 @@
 ### 🔍 Son GitHub Aktiviteleri
 
 
-- [ramazantufekci/xps-merge](https://github.com/ramazantufekci/xps-merge) ([v1.1](https://github.com/ramazantufekci/xps-merge/releases/tag/v1.1), 2 months ago)
+- [ramazantufekci/xps-merge](https://github.com/ramazantufekci/xps-merge) ([v1.1](https://github.com/ramazantufekci/xps-merge/releases/tag/v1.1), 3 months ago)
 
 - [ramazantufekci/aws-serverless](https://github.com/ramazantufekci/aws-serverless) ([v1.0.4](https://github.com/ramazantufekci/aws-serverless/releases/tag/v1.0.4), 8 months ago)
 
@@ -64,5 +64,5 @@
 </p>
 
 <div align="center">
-  <i>🌟 Son Güncelleme: 2026-10-14  21:02:56</i>
+  <i>🌟 Son Güncelleme: {#formdate#}</i>
 </div>
