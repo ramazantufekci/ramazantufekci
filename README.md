@@ -15,11 +15,11 @@
 ### 👨‍💻 Şu anda üzerinde çalıştığım projeler
 
 
-- [bilgislem/bilgislem.github.io](https://github.com/bilgislem/bilgislem.github.io) -  (6 days ago)
+- [bilgislem/bilgislem.github.io](https://github.com/bilgislem/bilgislem.github.io) -  (1 week ago)
 
 - [ramazantufekci/decentramon](https://github.com/ramazantufekci/decentramon) -  (1 week ago)
 
-- [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (1 week ago)
+- [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (2 weeks ago)
 
 - [ramazantufekci/hadi-project](https://github.com/ramazantufekci/hadi-project) -  (1 month ago)
 
@@ -64,5 +64,5 @@
 </p>
 
 <div align="center">
-  <i>🌟 Son Güncelleme: 2026-10-20  21:58:52</i>
+  <i>🌟 Son Güncelleme: {#formdate#}</i>
 </div>
