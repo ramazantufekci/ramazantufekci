@@ -17,7 +17,7 @@
 
 - [bilgislem/bilgislem.github.io](https://github.com/bilgislem/bilgislem.github.io) -  (1 week ago)
 
-- [ramazantufekci/decentramon](https://github.com/ramazantufekci/decentramon) -  (1 week ago)
+- [ramazantufekci/decentramon](https://github.com/ramazantufekci/decentramon) -  (2 weeks ago)
 
 - [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (2 weeks ago)
 
