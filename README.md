@@ -13,19 +13,11 @@
 - 📚 Sürekli öğrenme ve kendini geliştirme odaklı
 
 ### 👨‍💻 Şu anda üzerinde çalıştığım projeler
-
-
-- [bilgislem/bilgislem.github.io](https://github.com/bilgislem/bilgislem.github.io) -  (3 days ago)
-
-- [ramazantufekci/decentramon](https://github.com/ramazantufekci/decentramon) -  (3 weeks ago)
-
-- [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (3 weeks ago)
-
-- [ramazantufekci/hadi-project](https://github.com/ramazantufekci/hadi-project) -  (1 month ago)
-
-- [ramazantufekci/contacts](https://github.com/ramazantufekci/contacts) - Web Contacts (2 months ago)
-
-
+<!-- BLOG-POST-LIST:START -->
+{{ range recentContributions 5 }}
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }} ({{ humanize .OccurredAt }})
+{{ end }}
+<!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub İstatistiklerim
 
@@ -35,15 +27,11 @@
 </p>
 
 ### 🔍 Son GitHub Aktiviteleri
-
-
-- [ramazantufekci/xps-merge](https://github.com/ramazantufekci/xps-merge) ([v1.1](https://github.com/ramazantufekci/xps-merge/releases/tag/v1.1), 3 months ago)
-
-- [ramazantufekci/aws-serverless](https://github.com/ramazantufekci/aws-serverless) ([v1.0.4](https://github.com/ramazantufekci/aws-serverless/releases/tag/v1.0.4), 9 months ago)
-
-- [ramazantufekci/ramazantufekci](https://github.com/ramazantufekci/ramazantufekci) ([8](https://github.com/ramazantufekci/ramazantufekci/releases/tag/8), 1 year ago)
-
-
+<!-- GITHUB-ACTIVITY-LIST:START -->
+{{ range recentReleases 5 }}
+- [{{ .Name }}]({{ .URL }}) ([{{ .LastRelease.TagName }}]({{ .LastRelease.URL }}), {{ humanize .LastRelease.PublishedAt }})
+{{ end }}
+<!-- GITHUB-ACTIVITY-LIST:END -->
 
 ### 🤝 İletişim
 
