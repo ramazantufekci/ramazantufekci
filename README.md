@@ -15,7 +15,7 @@
 ### 👨‍💻 Şu anda üzerinde çalıştığım projeler
 
 
-- [bilgislem/bilgislem.github.io](https://github.com/bilgislem/bilgislem.github.io) -  (5 days ago)
+- [bilgislem/bilgislem.github.io](https://github.com/bilgislem/bilgislem.github.io) -  (6 days ago)
 
 - [ramazantufekci/decentramon](https://github.com/ramazantufekci/decentramon) -  (3 weeks ago)
 
@@ -64,5 +64,5 @@
 </p>
 
 <div align="center">
-  <i>🌟 Son Güncelleme: 2026-11-01  22:30:32</i>
+  <i>🌟 Son Güncelleme: {#formdate#}</i>
 </div>
