@@ -15,13 +15,13 @@
 ### 👨‍💻 Şu anda üzerinde çalıştığım projeler
 
 
-- [ramazantufekci/fortinet](https://github.com/ramazantufekci/fortinet) -  (today)
+- [ramazantufekci/fortinet](https://github.com/ramazantufekci/fortinet) -  (1 day ago)
 
 - [bilgislem/bilgislem.github.io](https://github.com/bilgislem/bilgislem.github.io) -  (1 week ago)
 
 - [ramazantufekci/decentramon](https://github.com/ramazantufekci/decentramon) -  (3 weeks ago)
 
-- [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (3 weeks ago)
+- [ramazantufekci/kod-coplugu](https://github.com/ramazantufekci/kod-coplugu) - Ortaya karışık (4 weeks ago)
 
 - [ramazantufekci/hadi-project](https://github.com/ramazantufekci/hadi-project) -  (1 month ago)
 
