@@ -15,7 +15,7 @@
 ### 👨‍💻 Şu anda üzerinde çalıştığım projeler
 
 
-- [ramazantufekci/fortinet](https://github.com/ramazantufekci/fortinet) -  (5 days ago)
+- [ramazantufekci/fortinet](https://github.com/ramazantufekci/fortinet) -  (today)
 
 - [bilgislem/bilgislem.github.io](https://github.com/bilgislem/bilgislem.github.io) -  (1 week ago)
 
